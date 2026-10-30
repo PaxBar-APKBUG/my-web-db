@@ -1,5 +1,14 @@
 {
-  "updated_at": "",
-  "total_items": 0,
-  "entries": []
+  "updated_at": "2026-10-30T07:23:07.571Z",
+  "total_items": 1,
+  "entries": [
+    {
+      "entry_id": "item_1793344987557",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363xxxxxxxx@newsletter",
+      "added_at": "2026-10-30T07:23:07.557Z"
+    }
+  ]
 }
