@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T07:23:07.571Z",
-  "total_items": 1,
+  "updated_at": "2026-10-30T07:27:35.233Z",
+  "total_items": 2,
   "entries": [
     {
       "entry_id": "item_1793344987557",
@@ -9,6 +9,14 @@
       "type": "channel",
       "target": "120363xxxxxxxx@newsletter",
       "added_at": "2026-10-30T07:23:07.557Z"
+    },
+    {
+      "entry_id": "item_1793345255233",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/xxxxxxxxx",
+      "added_at": "2026-10-30T07:27:35.233Z"
     }
   ]
 }
