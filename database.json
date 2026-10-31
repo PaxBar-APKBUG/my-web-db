@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-31T07:57:29.635Z",
-  "total_items": 0,
-  "channels": [],
+  "updated_at": "2026-10-31T07:57:53.557Z",
+  "total_items": 1,
+  "channels": ["120363402868866359@newsletter"],
   "groups": [],
   "entries": [
-
+    {"entry_id":"item_1793433473557","username":"paxbar_","role":"admin","type":"channel","target":"120363402868866359@newsletter","added_at":"2026-10-31T07:57:53.557Z"}
   ]
 }
