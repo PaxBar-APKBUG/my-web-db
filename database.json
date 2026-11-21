@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-11-03T10:01:08.961Z",
-  "total_items": 2,
+  "updated_at": "2026-11-21T09:07:15.476Z",
+  "total_items": 3,
   "channels": ["120363402868866359@newsletter","120363413885932392@newsletter"],
-  "groups": [],
+  "groups": ["https://chat.whatsapp.com/FWK2GHOfGfXDP2ZYHJc2kL"],
   "notifications": [
 
   ],
   "entries": [
     {"entry_id":"item_1793433473557","username":"paxbar_","role":"admin","type":"channel","target":"120363402868866359@newsletter","added_at":"2026-10-31T07:57:53.557Z"},
-    {"entry_id":"item_1793578637379","username":"paxbar_","role":"admin","type":"channel","target":"120363413885932392@newsletter","added_at":"2026-11-02T00:17:17.379Z"}
+    {"entry_id":"item_1793578637379","username":"paxbar_","role":"admin","type":"channel","target":"120363413885932392@newsletter","added_at":"2026-11-02T00:17:17.379Z"},
+    {"entry_id":"item_1795252035476","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FWK2GHOfGfXDP2ZYHJc2kL","added_at":"2026-11-21T09:07:15.476Z"}
   ]
 }
