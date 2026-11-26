@@ -1,404 +1,3504 @@
 {
-  "updated_at": "2026-11-26T09:11:26.099Z",
-  "total_items": 393,
-  "channels": ["120363402868866359@newsletter","120363408089676699@newsletter","120363411716205891@newsletter","120363428774935419@newsletter","120363413439601308@newsletter","120363426667307310@newsletter","120363406686429563@newsletter","120363405193172531@newsletter","120363424158231931@newsletter","120363403511681857@newsletter","120363423115859216@newsletter","120363405751846099@newsletter","120363425215539117@newsletter","120363420688342363@newsletter","120363407995934884@newsletter","120363429092002554@newsletter","120363427388697660@newsletter","120363407428512399@newsletter","120363406324148841@newsletter","120363404648492357@newsletter","120363424181296248@newsletter","120363426143278720@newsletter","120363411296609345@newsletter","120363433749043121@newsletter","120363430358975222@newsletter","120363410850042322@newsletter","120363410890367638@newsletter","120363409922669756@newsletter","120363412668474335@newsletter","120363412098642346@newsletter","120363424451340923@newsletter","120363411265074152@newsletter","120363414914476877@newsletter","120363414230953029@newsletter","120363432336294829@newsletter","120363429135852533@newsletter","120363428979242862@newsletter","120363427316326601@newsletter","120363430118500859@newsletter","120363414543191162@newsletter","120363409312214229@newsletter","120363433152662852@newsletter","120363431107765181@newsletter","120363428371956007@newsletter","120363430142122299@newsletter","120363414696738425@newsletter","120363432346092597@newsletter","120363433498571895@newsletter","120363414177323272@newsletter","120363409276643593@newsletter","120363406122525147@newsletter","120363408427759643@newsletter","120363432462670811@newsletter","120363413987148854@newsletter","120363427748941588@newsletter","120363431633176134@newsletter","120363430077534656@newsletter","120363412470558999@newsletter","120363412941726380@newsletter","120363424482798113@newsletter","120363431999160515@newsletter","120363433437284859@newsletter","120363409053880514@newsletter","120363408557680754@newsletter","120363431104887010@newsletter","120363410697545748@newsletter","120363429855943961@newsletter","120363427050583863@newsletter","120363428829969508@newsletter","120363437898918771@newsletter","120363432897831417@newsletter","120363410214539431@newsletter","120363428973163018@newsletter","120363425359921782@newsletter","120363409706127867@newsletter","120363428402662553@newsletter","120363411321962596@newsletter","120363429538726333@newsletter","120363427682692073@newsletter","120363429811226222@newsletter","120363428848166418@newsletter","120363409316377061@newsletter","120363428801407191@newsletter","120363410549162379@newsletter","120363429076295887@newsletter","120363429744175174@newsletter","120363413278979105@newsletter","120363429356347366@newsletter","120363428122270223@newsletter","120363410472759582@newsletter","120363410543597599@newsletter","120363429192436048@newsletter","120363427776409140@newsletter","120363409638252154@newsletter","120363430826554103@newsletter","120363412414650149@newsletter","120363410909841665@newsletter","120363429844517342@newsletter","120363408351032775@newsletter","120363427055897107@newsletter","120363427297886091@newsletter","120363428141035252@newsletter","120363410455268894@newsletter","120363429586673348@newsletter","120363410642055478@newsletter","120363409551736932@newsletter","120363431631705822@newsletter","120363429020395437@newsletter","120363427565293814@newsletter","120363429584204354@newsletter","120363411415827346@newsletter","120363408696993418@newsletter","120363428003646110@newsletter","120363429832164310@newsletter","120363413722516941@newsletter","120363432127564393@newsletter","120363411821021860@newsletter","120363428814057436@newsletter","120363412498881892@newsletter","120363414601607112@newsletter","120363413026726018@newsletter","120363411763335520@newsletter","120363412819415728@newsletter","120363413883118135@newsletter","120363430399987633@newsletter","120363429124700141@newsletter","120363432289926526@newsletter","120xxxxxxxxxxx@newsletter","120363428983975433@newsletter","120363412370699857@newsletter","120363407728627709@newsletter","120363427239417923@newsletter","120363409297123784@newsletter","120363330289360382@newsletter","120363410963068584@newsletter","120363433439503750@newsletter","120363433114127008@newsletter","120363434262071225@newsletter","120363432092690378@newsletter","120363432296117803@newsletter","120363432257660629@newsletter","120363434360917997@newsletter","120363431780919646@newsletter","120363433436641693@newsletter","120363432371701170@newsletter","120363430832111430@newsletter","120363422066682134@newsletter","120363429886773758@newsletter","120363415174135095@newsletter","120363415437956024@newsletter","120363414523268238@newsletter","120363429387190401@newsletter","120363430873189342@newsletter","120363413962482956@newsletter","120363433842322754@newsletter","120363432638976255@newsletter","120363432678062191@newsletter","120363404634538235@newsletter","120363353304302947@newsletter","120363423615802904@newsletter","120363408663530338@newsletter","120363411509441178@newsletter","120363413522322118@newsletter","120363413108765812@newsletter","120363433791989945@newsletter","120363411810206911@newsletter","120363430514470984@newsletter","120363422852695330@newsletter","120363407007671503@newsletter","120363413718014885@newsletter","120363432701530285@newsletter","120363429511281710@newsletter","120363409782361079@newsletter","120363412622818481@newsletter","120363408896784304@newsletter","120363408138853894@newsletter","120363427195742278@newsletter","120363430155696714@newsletter","120363430162624582@newsletter","120363431089626907@newsletter","120363431229173556@newsletter","120363431697168674@newsletter","120363432214611213@newsletter","120363430481609450@newsletter","120363412619997370@newsletter","120363412595647526@newsletter","120363413694691041@newsletter","120363430669646700@newsletter","120363432035782974@newsletter","120363429737336632@newsletter","120363413333208583@newsletter","120363427235262341@newsletter","120363430354183399@newsletter","120363413090536080@newsletter","120363413695505986@newsletter","120363430336453731@newsletter","120363429875803170@newsletter","120363413211025808@newsletter","120363432927225089@newsletter","120363307077684911@newsletter","120363370522421644@newsletter","120363408159125529@newsletter","120363423248494885@newsletter","120363423666771129@newsletter","120363405390404298@newsletter","120363412466364658@newsletter","120363411240800225@newsletter","120363430046790456@newsletter","120363411961808246@newsletter","120363414269959043@newsletter","120363432578760790@newsletter","120363413535905740@newsletter","120363433078072515@newsletter","120363412772173961@newsletter","120363412265633972@newsletter","120363430893651312@newsletter","120363414165430562@newsletter","120363431736092026@newsletter"],
-  "groups": ["https://chat.whatsapp.com/K79LQJEiYzu5zpBDAtRWmu","https://chat.whatsapp.com/HfRnkKvjnliJzNwHRPnrOk","https://chat.whatsapp.com/L7wyYQgPUqCAimC7JA8SIn","https://chat.whatsapp.com/F60XvoSx5XbFhZFzlccvsh","https://chat.whatsapp.com/CjapDnyEHns9ROpO51KQrL","https://chat.whatsapp.com/Igp2dDGBDmwDkzUg1sjnCJ","https://chat.whatsapp.com/Ib87wxPyxjRDgPrclKQ3wP","https://chat.whatsapp.com/DnL3PkgJ154HAbrqnja081","https://chat.whatsapp.com/KoLjTFBFuydDGPdrrUtGK8","https://chat.whatsapp.com/BNZQAoqqAAq235ieZ0m0L4","https://chat.whatsapp.com/GbQ9qOyIJm00y34zUo4NBR","https://chat.whatsapp.com/Jrm6y8ECs1KFQDQ1fjQbZA","https://chat.whatsapp.com/Fo9Q9dLWodp5hxDtGUD9el","https://chat.whatsapp.com/Kf5Qggk6TzDCZS7zxXBHNI","https://chat.whatsapp.com/Kn7MEpQSq3mHhPwKc7F04f","https://chat.whatsapp.com/F8t97k62D4XAVrCSpjM1mi","https://chat.whatsapp.com/Lv7wEP5QNiAHeYfnQh6Q6a","https://chat.whatsapp.com/LCDZsgQSFj6C9CNcUvZLAC","https://chat.whatsapp.com/Cg9KKP5i8a2CxwfBRykHbO","https://chat.whatsapp.com/GGIcF1mVkAH3kShPtRomYt","https://chat.whatsapp.com/JN6AcSRSYcp36vFM0mXkdb","https://chat.whatsapp.com/DeQeH5Wsm0B0jt1KPwweMP","https://chat.whatsapp.com/BZTPJSH3IO4D2v9cmSrtgp","https://chat.whatsapp.com/BhQvxYs8IaTItFpe4Mz0sF","https://chat.whatsapp.com/FGWWL3qbWnqJ4lcbuJ62fi","https://chat.whatsapp.com/EMnaN2cdKDEJR1eTVY3B3m","https://chat.whatsapp.com/GjCPIkrSCfD010LVV2aMiW","https://chat.whatsapp.com/HfCQLfqrNAQBMNSOJ5P88q","https://chat.whatsapp.com/DQBJu8LzbYN8doPaz3wVFB","https://chat.whatsapp.com/KSWOQ9LQK5RKSFVJtvBlkJ","https://chat.whatsapp.com/DbEdFh1WbhTAOi1xZVAiDw","https://chat.whatsapp.com/KU7KLHBw4Yl65geH6jo7pM","https://chat.whatsapp.com/BTyVCzbJ8SAIeUP1JUCnqs","https://chat.whatsapp.com/FvLimeXPuQ8KArtNM4uH7Y","https://chat.whatsapp.com/EceVQmwqpz73dxQmP0id6N","https://chat.whatsapp.com/KbPKNLJS0Id7Ux0LPu50gz","https://chat.whatsapp.com/Dc1INJcKhNgKGVUaLQ8wwW","https://chat.whatsapp.com/IxHGqQkNcRWIVKxKpiSGjJ","https://chat.whatsapp.com/FjmTHlpCjQS0XHBzw097oa","https://chat.whatsapp.com/GcdAAtyWfS4DG6P6rlRLcx","https://chat.whatsapp.com/FWK2GHOfGfXDP2ZYHJc2kL","https://chat.whatsapp.com/GUpD2xXsIUA6p2pptsCnj5","https://chat.whatsapp.com/K1Ff5KObtonEEFbt3ulo13","https://chat.whatsapp.com/CoGg6GdjVmtE4GDGew7X6e","https://chat.whatsapp.com/KqwdXEAfSlPDrKUXze39Lm","https://chat.whatsapp.com/JrWGccmg5Ya7Qyx2eVIguG","https://chat.whatsapp.com/BV6qeyLomPLJDw2nvHh1Qf","https://chat.whatsapp.com/KMG2erUKcEjBlYpIpkFJN4","https://chat.whatsapp.com/KhZ9o4Ab715K8LCNV1YHjR","https://chat.whatsapp.com/FHXJzDBmx297eirMK3DKpj","https://chat.whatsapp.com/BrvLR5Y7y0tJALRwgF2bqJ","https://chat.whatsapp.com/HOUpS0LVPFtBL3Rg0J0STD","https://chat.whatsapp.com/Jtog2G9uFja6o19xjhE93n","https://chat.whatsapp.com/DBcM7Daagvk0pAvIJlNIhK","https://chat.whatsapp.com/EFTWp7dQ9JGGjQA0hdSLJH","https://chat.whatsapp.com/HlLIbJbdLCS81DRmKELxMi","https://chat.whatsapp.com/CAwoCPiYNoM8avx0tL59j3","https://chat.whatsapp.com/EgQ6VUvEyroEvWtznJKl99","https://chat.whatsapp.com/Ht2Cb5ojW5K8LCObn0u9I7","https://chat.whatsapp.com/KkOVnH5pdOE2vRMMA3EeJt","https://chat.whatsapp.com/FNsu6duHaYbETGLDmc5RTD","https://chat.whatsapp.com/CTX3vH4rRlTAaZDuY8OYya","https://chat.whatsapp.com/LZpmjjBsPN3F6W5XnTdtTw","https://chat.whatsapp.com/CL7zgUoWaPf7Ip4i4zO1aY","https://chat.whatsapp.com/B6I3u6FGTB97LegptNfu7B","https://chat.whatsapp.com/EoNwBAfIRNhLDvU0fWTN8a","https://chat.whatsapp.com/HUsQBK1xNu702UEwn9cjLz","https://chat.whatsapp.com/Fhv2aSFIXdg5rOkWQfAHzs","https://chat.whatsapp.com/GhOhfTTXgqS9Vyb8MywHVh","https://chat.whatsapp.com/EkllK41mDm8FjTGCVEBvtd","https://chat.whatsapp.com/FYiK8Ma7B5VF3dJZgG8AYV","https://chat.whatsapp.com/D1uiHWrOUOH0MZ6ZZd6i0t","https://chat.whatsapp.com/JooD2PDPGWP2mJVrCl9V7c","https://chat.whatsapp.com/GZat5qpHhUTDo6FsxjkwZW","https://chat.whatsapp.com/BZQL7uzDSDe680yxWXLatJ","https://chat.whatsapp.com/Kx0lOm0Zlmk2WukuY8cRgC","https://chat.whatsapp.com/JheoLZC3WuIJyTkX1pb6ie","https://chat.whatsapp.com/Ev4hG50Mag16mDJlPIhSTj","https://chat.whatsapp.com/FEtvkOaCPgnC3MPDGD4suO","https://chat.whatsapp.com/FkzoKBKBInOIZRLpi0uTuS","https://chat.whatsapp.com/FsoSSEqQY22Cu8oHa3hMOG","https://chat.whatsapp.com/C0zhojjRN00KuayT8tKBKu","https://chat.whatsapp.com/JWS4sSB5yOp8VisGBoGTku","https://chat.whatsapp.com/LGh6rdvJA9v6J6xtI6oYxP","https://chat.whatsapp.com/ILLgUz9vpM19eGydhEL93g","https://chat.whatsapp.com/HbuNCV1C9Cl3cX9RptMHaM","https://chat.whatsapp.com/C7uuUzchaE43ZayQp2iYLQ","https://chat.whatsapp.com/L5dFfXgKW8PH52jbkAreW2","https://chat.whatsapp.com/HmwvfgyPklzAFQ0Z0Niv6B","https://chat.whatsapp.com/GBJccHCnBPh3UUudNBaoji","https://chat.whatsapp.com/IO8Wf5ZmP5iIHGsSsw1f5C","https://chat.whatsapp.com/KBZegbZEh6hAG6Q8KCdMgS","https://chat.whatsapp.com/BE6J7zsZKz86Lbggb4t8Wm","https://chat.whatsapp.com/EhzvQUXyPRoI1FG48NyVvI","https://chat.whatsapp.com/FcNggL3nuyYCjOO1WB1HkM","https://chat.whatsapp.com/Daqv18jlFdT1a7vqN6rMde","https://chat.whatsapp.com/C5JeD6RLVqr4dn43S14xtV","https://chat.whatsapp.com/FoqA5P39pAiLUGk9s2W90R","https://chat.whatsapp.com/LblqqXac3FSKcHehCBxPIO","https://chat.whatsapp.com/Ka90V7tsoYyD2vOsC6VRHV","https://chat.whatsapp.com/FE2yDpbnqI6951dp4Jm3mF","https://chat.whatsapp.com/DeR7jeMYzLyDxcfCvckwia","https://chat.whatsapp.com/DgebVxPeT0t3xzSwGXtCpo","https://chat.whatsapp.com/LEegboQIJygIHCdwqvC8C3","https://chat.whatsapp.com/EzDI8XbEQhvCvSYGBbf9Ms","https://chat.whatsapp.com/DBpDMGwEp7tHEUcyd9EpIY","https://chat.whatsapp.com/Hq17eHmCBP78qp0RBUQbIl","https://chat.whatsapp.com/KIGBmeijZB8KFonxNq7DZI","https://chat.whatsapp.com/JBqPtsZ6CJjKe3Qft9sL0t","https://chat.whatsapp.com/CP5fUUGnfiKFvfcpORLcJu","https://chat.whatsapp.com/Ew65ijZ73OkFC4HKw3x7mC","https://chat.whatsapp.com/BWCtN8qiGlDAOTMy7Q8xLS","https://chat.whatsapp.com/LPVf8BsAQp3LrWMQ7rqz71","https://chat.whatsapp.com/IFVy8SRDD3O7bWw15RGnOg","https://chat.whatsapp.com/GmSpgL6teYBD5mSY3ZomXI","https://chat.whatsapp.com/EkrrtrxG5bI8qok4Lwbv3Q","https://chat.whatsapp.com/B9B5AoPuljTKP4fZfN0Mcp","https://chat.whatsapp.com/Dh2LUsGJtY1HEFyiuMJjci","https://chat.whatsapp.com/LJcdtTWc8ui1nwB6FOsclV","https://chat.whatsapp.com/Iepa289AnkL87VDk7WNqYU","https://chat.whatsapp.com/DgLguwus0YlAqvs0ZL8mQG","https://chat.whatsapp.com/Jks7GcuxZmh6At8BrsKDwh","https://chat.whatsapp.com/EvCtqIujCtnAxujSxSCifx","https://chat.whatsapp.com/EV86kiEgL8QIdgdR8PfVdS","https://chat.whatsapp.com/IVHo3ZDkmFlHhU7x7VHt0Q","https://chat.whatsapp.com/IHawNPNQmUGLF5uoFDjw3m","https://chat.whatsapp.com/HNbej5Dtp6IEtsCRj3w4Ye","https://chat.whatsapp.com/EOh9CBIkvxA9qfYvDuXUgq","https://chat.whatsapp.com/KmrmviTSnaf47yC4KuzJDV","https://chat.whatsapp.com/K7XYAhz8BpV196IQCpIM6L","https://chat.whatsapp.com/JISdc08L7bHB6WtHaM5efL","https://chat.whatsapp.com/CRUVbAXTE0H2a6XZFAe013","https://chat.whatsapp.com/CobuqV8mP8A9V9m4W9CJHO","https://chat.whatsapp.com/JjgLRNw7xjq1a3Fu4JjTYS","https://chat.whatsapp.com/JYMfgpzLWdlL1Vj5eSXNPA","https://chat.whatsapp.com/LMWveWwPHo4DXJzXkdCGnS","https://chat.whatsapp.com/GrcJwbClyr0DFI8cAPhLx0","https://chat.whatsapp.com/Kl7s7u5ciAwHeazjdltonE","https://chat.whatsapp.com/DSIdFacWhK89qQg7IRGZ2I","https://chat.whatsapp.com/IgEbTrkiZV0FlADBwCgHQL","https://chat.whatsapp.com/JV4z3obRKDz4dJHY3tLH9c","https://chat.whatsapp.com/Bp0j3C3cbWFC4607IWejrO","https://chat.whatsapp.com/Ly7wPisg0hnDjxtb6SnGJ2","https://chat.whatsapp.com/LFXMnLhV2HH8XF0Hj9lN2E","https://chat.whatsapp.com/HVoI3IIruLQHeC1ZCPKyp7","https://chat.whatsapp.com/EvL59nfY2qk9hOb9dqUg3e","https://chat.whatsapp.com/FHBsfgwv2nM6J2AD4YWgMn","https://chat.whatsapp.com/BV3WoIJIQ236z8yZzzqfHt","https://chat.whatsapp.com/D7zSD7SJEBoGa8Yl5rrBeR","https://chat.whatsapp.com/KRhpZtfPZ0AAJWffVZCEfx","https://chat.whatsapp.com/CQOCKqFDc6H8ExTQ6AeNc2","https://chat.whatsapp.com/Jh5TGzuJyZH0L8m55dYHSk","https://chat.whatsapp.com/LsZV570MF0mCAfJepKGQdn","https://chat.whatsapp.com/GnSsAwuXQa9GXsthfeRtrI","https://chat.whatsapp.com/D0suXs6cbr5DPoWj3yW8Fb","https://chat.whatsapp.com/I3qTGXHOrhOALk1gAyHojU","https://chat.whatsapp.com/LtUhI3jElHp8rxp9R3nrd2","https://chat.whatsapp.com/Hy3olD85Q93Dsj6xvQIkcp","https://chat.whatsapp.com/K4eDGSF12Qy2Zqja7K5BGF","https://chat.whatsapp.com/J4WRWIp7lLU3uyMdlrp1lN","https://chat.whatsapp.com/BZW3XQmLqPV3A8HGAuJjuu","https://chat.whatsapp.com/Kk2ATreNmXhCFTnjFglDtN","https://chat.whatsapp.com/DM0HphuxJmq7zxRaQVPVrY","https://chat.whatsapp.com/Cpk7IK0DfcZ872qrfArpj7","https://chat.whatsapp.com/B92bIzU2UZOJOpDn1rmT2f","https://chat.whatsapp.com/CVmofZGYvSqHLbLCmU39ig","https://chat.whatsapp.com/LDaItZ6K2iFB3tXh78pqqi","https://chat.whatsapp.com/DmnYtNbHzuPHCysVCQYiwT","https://chat.whatsapp.com/GweXLUcEh5MFgelVOwCBDv","https://chat.whatsapp.com/CbGpEOny6nv1xpnnvk93Cq","https://chat.whatsapp.com/DD3cmQVLSNP6MSuT3dDARH","https://chat.whatsapp.com/BnPxSdeH6pY4oZFIRS81rN","https://chat.whatsapp.com/LMLpS9Dw6rBFyasgH1R9wm","https://chat.whatsapp.com/Jd07AePdBGJBHmuJK1TF2j","https://chat.whatsapp.com/K7O7UUewra2LuHDzzQGNu4"],
+  "updated_at": "2026-11-26T09:12:49.070Z",
+  "total_items": 387,
+  "channels": [
+    "120363402868866359@newsletter",
+    "120363408089676699@newsletter",
+    "120363411716205891@newsletter",
+    "120363428774935419@newsletter",
+    "120363413439601308@newsletter",
+    "120363426667307310@newsletter",
+    "120363406686429563@newsletter",
+    "120363405193172531@newsletter",
+    "120363424158231931@newsletter",
+    "120363403511681857@newsletter",
+    "120363423115859216@newsletter",
+    "120363405751846099@newsletter",
+    "120363425215539117@newsletter",
+    "120363420688342363@newsletter",
+    "120363407995934884@newsletter",
+    "120363429092002554@newsletter",
+    "120363427388697660@newsletter",
+    "120363407428512399@newsletter",
+    "120363406324148841@newsletter",
+    "120363404648492357@newsletter",
+    "120363424181296248@newsletter",
+    "120363426143278720@newsletter",
+    "120363411296609345@newsletter",
+    "120363433749043121@newsletter",
+    "120363430358975222@newsletter",
+    "120363410850042322@newsletter",
+    "120363410890367638@newsletter",
+    "120363409922669756@newsletter",
+    "120363412668474335@newsletter",
+    "120363412098642346@newsletter",
+    "120363424451340923@newsletter",
+    "120363411265074152@newsletter",
+    "120363414914476877@newsletter",
+    "120363414230953029@newsletter",
+    "120363432336294829@newsletter",
+    "120363429135852533@newsletter",
+    "120363428979242862@newsletter",
+    "120363427316326601@newsletter",
+    "120363430118500859@newsletter",
+    "120363414543191162@newsletter",
+    "120363409312214229@newsletter",
+    "120363433152662852@newsletter",
+    "120363431107765181@newsletter",
+    "120363428371956007@newsletter",
+    "120363430142122299@newsletter",
+    "120363414696738425@newsletter",
+    "120363432346092597@newsletter",
+    "120363433498571895@newsletter",
+    "120363414177323272@newsletter",
+    "120363409276643593@newsletter",
+    "120363406122525147@newsletter",
+    "120363408427759643@newsletter",
+    "120363432462670811@newsletter",
+    "120363413987148854@newsletter",
+    "120363427748941588@newsletter",
+    "120363431633176134@newsletter",
+    "120363430077534656@newsletter",
+    "120363412470558999@newsletter",
+    "120363412941726380@newsletter",
+    "120363424482798113@newsletter",
+    "120363431999160515@newsletter",
+    "120363433437284859@newsletter",
+    "120363409053880514@newsletter",
+    "120363408557680754@newsletter",
+    "120363431104887010@newsletter",
+    "120363410697545748@newsletter",
+    "120363429855943961@newsletter",
+    "120363427050583863@newsletter",
+    "120363428829969508@newsletter",
+    "120363437898918771@newsletter",
+    "120363432897831417@newsletter",
+    "120363410214539431@newsletter",
+    "120363428973163018@newsletter",
+    "120363425359921782@newsletter",
+    "120363409706127867@newsletter",
+    "120363428402662553@newsletter",
+    "120363411321962596@newsletter",
+    "120363429538726333@newsletter",
+    "120363427682692073@newsletter",
+    "120363429811226222@newsletter",
+    "120363428848166418@newsletter",
+    "120363409316377061@newsletter",
+    "120363428801407191@newsletter",
+    "120363410549162379@newsletter",
+    "120363429076295887@newsletter",
+    "120363429744175174@newsletter",
+    "120363413278979105@newsletter",
+    "120363429356347366@newsletter",
+    "120363428122270223@newsletter",
+    "120363410472759582@newsletter",
+    "120363410543597599@newsletter",
+    "120363429192436048@newsletter",
+    "120363427776409140@newsletter",
+    "120363409638252154@newsletter",
+    "120363430826554103@newsletter",
+    "120363412414650149@newsletter",
+    "120363410909841665@newsletter",
+    "120363429844517342@newsletter",
+    "120363408351032775@newsletter",
+    "120363427055897107@newsletter",
+    "120363427297886091@newsletter",
+    "120363428141035252@newsletter",
+    "120363410455268894@newsletter",
+    "120363429586673348@newsletter",
+    "120363410642055478@newsletter",
+    "120363409551736932@newsletter",
+    "120363431631705822@newsletter",
+    "120363429020395437@newsletter",
+    "120363427565293814@newsletter",
+    "120363429584204354@newsletter",
+    "120363411415827346@newsletter",
+    "120363408696993418@newsletter",
+    "120363428003646110@newsletter",
+    "120363429832164310@newsletter",
+    "120363413722516941@newsletter",
+    "120363432127564393@newsletter",
+    "120363411821021860@newsletter",
+    "120363428814057436@newsletter",
+    "120363412498881892@newsletter",
+    "120363414601607112@newsletter",
+    "120363413026726018@newsletter",
+    "120363411763335520@newsletter",
+    "120363412819415728@newsletter",
+    "120363413883118135@newsletter",
+    "120363430399987633@newsletter",
+    "120363429124700141@newsletter",
+    "120363432289926526@newsletter",
+    "120xxxxxxxxxxx@newsletter",
+    "120363428983975433@newsletter",
+    "120363412370699857@newsletter",
+    "120363407728627709@newsletter",
+    "120363427239417923@newsletter",
+    "120363409297123784@newsletter",
+    "120363330289360382@newsletter",
+    "120363410963068584@newsletter",
+    "120363433439503750@newsletter",
+    "120363433114127008@newsletter",
+    "120363434262071225@newsletter",
+    "120363432092690378@newsletter",
+    "120363432296117803@newsletter",
+    "120363432257660629@newsletter",
+    "120363434360917997@newsletter",
+    "120363431780919646@newsletter",
+    "120363433436641693@newsletter",
+    "120363432371701170@newsletter",
+    "120363430832111430@newsletter",
+    "120363422066682134@newsletter",
+    "120363429886773758@newsletter",
+    "120363415174135095@newsletter",
+    "120363415437956024@newsletter",
+    "120363414523268238@newsletter",
+    "120363429387190401@newsletter",
+    "120363430873189342@newsletter",
+    "120363413962482956@newsletter",
+    "120363433842322754@newsletter",
+    "120363432638976255@newsletter",
+    "120363432678062191@newsletter",
+    "120363404634538235@newsletter",
+    "120363353304302947@newsletter",
+    "120363423615802904@newsletter",
+    "120363408663530338@newsletter",
+    "120363411509441178@newsletter",
+    "120363413522322118@newsletter",
+    "120363413108765812@newsletter",
+    "120363433791989945@newsletter",
+    "120363411810206911@newsletter",
+    "120363430514470984@newsletter",
+    "120363422852695330@newsletter",
+    "120363407007671503@newsletter",
+    "120363413718014885@newsletter",
+    "120363432701530285@newsletter",
+    "120363429511281710@newsletter",
+    "120363409782361079@newsletter",
+    "120363412622818481@newsletter",
+    "120363408896784304@newsletter",
+    "120363408138853894@newsletter",
+    "120363427195742278@newsletter",
+    "120363430155696714@newsletter",
+    "120363430162624582@newsletter",
+    "120363431089626907@newsletter",
+    "120363431229173556@newsletter",
+    "120363431697168674@newsletter",
+    "120363432214611213@newsletter",
+    "120363430481609450@newsletter",
+    "120363412619997370@newsletter",
+    "120363412595647526@newsletter",
+    "120363413694691041@newsletter",
+    "120363430669646700@newsletter",
+    "120363432035782974@newsletter",
+    "120363429737336632@newsletter",
+    "120363413333208583@newsletter",
+    "120363427235262341@newsletter",
+    "120363430354183399@newsletter",
+    "120363413090536080@newsletter",
+    "120363413695505986@newsletter",
+    "120363430336453731@newsletter",
+    "120363429875803170@newsletter",
+    "120363413211025808@newsletter",
+    "120363432927225089@newsletter",
+    "120363307077684911@newsletter",
+    "120363370522421644@newsletter",
+    "120363408159125529@newsletter",
+    "120363423248494885@newsletter",
+    "120363423666771129@newsletter",
+    "120363405390404298@newsletter",
+    "120363412466364658@newsletter",
+    "120363411240800225@newsletter",
+    "120363430046790456@newsletter",
+    "120363411961808246@newsletter",
+    "120363414269959043@newsletter",
+    "120363432578760790@newsletter",
+    "120363413535905740@newsletter",
+    "120363433078072515@newsletter",
+    "120363412772173961@newsletter",
+    "120363412265633972@newsletter",
+    "120363430893651312@newsletter",
+    "120363414165430562@newsletter",
+    "120363431736092026@newsletter"
+  ],
+  "groups": [
+    "https://chat.whatsapp.com/K79LQJEiYzu5zpBDAtRWmu",
+    "https://chat.whatsapp.com/HfRnkKvjnliJzNwHRPnrOk",
+    "https://chat.whatsapp.com/L7wyYQgPUqCAimC7JA8SIn",
+    "https://chat.whatsapp.com/F60XvoSx5XbFhZFzlccvsh",
+    "https://chat.whatsapp.com/CjapDnyEHns9ROpO51KQrL",
+    "https://chat.whatsapp.com/Igp2dDGBDmwDkzUg1sjnCJ",
+    "https://chat.whatsapp.com/Ib87wxPyxjRDgPrclKQ3wP",
+    "https://chat.whatsapp.com/DnL3PkgJ154HAbrqnja081",
+    "https://chat.whatsapp.com/KoLjTFBFuydDGPdrrUtGK8",
+    "https://chat.whatsapp.com/Jrm6y8ECs1KFQDQ1fjQbZA",
+    "https://chat.whatsapp.com/Fo9Q9dLWodp5hxDtGUD9el",
+    "https://chat.whatsapp.com/Kf5Qggk6TzDCZS7zxXBHNI",
+    "https://chat.whatsapp.com/F8t97k62D4XAVrCSpjM1mi",
+    "https://chat.whatsapp.com/Lv7wEP5QNiAHeYfnQh6Q6a",
+    "https://chat.whatsapp.com/LCDZsgQSFj6C9CNcUvZLAC",
+    "https://chat.whatsapp.com/Cg9KKP5i8a2CxwfBRykHbO",
+    "https://chat.whatsapp.com/GGIcF1mVkAH3kShPtRomYt",
+    "https://chat.whatsapp.com/JN6AcSRSYcp36vFM0mXkdb",
+    "https://chat.whatsapp.com/DeQeH5Wsm0B0jt1KPwweMP",
+    "https://chat.whatsapp.com/BZTPJSH3IO4D2v9cmSrtgp",
+    "https://chat.whatsapp.com/BhQvxYs8IaTItFpe4Mz0sF",
+    "https://chat.whatsapp.com/FGWWL3qbWnqJ4lcbuJ62fi",
+    "https://chat.whatsapp.com/EMnaN2cdKDEJR1eTVY3B3m",
+    "https://chat.whatsapp.com/GjCPIkrSCfD010LVV2aMiW",
+    "https://chat.whatsapp.com/HfCQLfqrNAQBMNSOJ5P88q",
+    "https://chat.whatsapp.com/DQBJu8LzbYN8doPaz3wVFB",
+    "https://chat.whatsapp.com/KSWOQ9LQK5RKSFVJtvBlkJ",
+    "https://chat.whatsapp.com/DbEdFh1WbhTAOi1xZVAiDw",
+    "https://chat.whatsapp.com/KU7KLHBw4Yl65geH6jo7pM",
+    "https://chat.whatsapp.com/BTyVCzbJ8SAIeUP1JUCnqs",
+    "https://chat.whatsapp.com/FvLimeXPuQ8KArtNM4uH7Y",
+    "https://chat.whatsapp.com/EceVQmwqpz73dxQmP0id6N",
+    "https://chat.whatsapp.com/KbPKNLJS0Id7Ux0LPu50gz",
+    "https://chat.whatsapp.com/Dc1INJcKhNgKGVUaLQ8wwW",
+    "https://chat.whatsapp.com/IxHGqQkNcRWIVKxKpiSGjJ",
+    "https://chat.whatsapp.com/FjmTHlpCjQS0XHBzw097oa",
+    "https://chat.whatsapp.com/GcdAAtyWfS4DG6P6rlRLcx",
+    "https://chat.whatsapp.com/FWK2GHOfGfXDP2ZYHJc2kL",
+    "https://chat.whatsapp.com/GUpD2xXsIUA6p2pptsCnj5",
+    "https://chat.whatsapp.com/CoGg6GdjVmtE4GDGew7X6e",
+    "https://chat.whatsapp.com/KqwdXEAfSlPDrKUXze39Lm",
+    "https://chat.whatsapp.com/JrWGccmg5Ya7Qyx2eVIguG",
+    "https://chat.whatsapp.com/BV6qeyLomPLJDw2nvHh1Qf",
+    "https://chat.whatsapp.com/KMG2erUKcEjBlYpIpkFJN4",
+    "https://chat.whatsapp.com/KhZ9o4Ab715K8LCNV1YHjR",
+    "https://chat.whatsapp.com/FHXJzDBmx297eirMK3DKpj",
+    "https://chat.whatsapp.com/BrvLR5Y7y0tJALRwgF2bqJ",
+    "https://chat.whatsapp.com/HOUpS0LVPFtBL3Rg0J0STD",
+    "https://chat.whatsapp.com/Jtog2G9uFja6o19xjhE93n",
+    "https://chat.whatsapp.com/DBcM7Daagvk0pAvIJlNIhK",
+    "https://chat.whatsapp.com/EFTWp7dQ9JGGjQA0hdSLJH",
+    "https://chat.whatsapp.com/HlLIbJbdLCS81DRmKELxMi",
+    "https://chat.whatsapp.com/CAwoCPiYNoM8avx0tL59j3",
+    "https://chat.whatsapp.com/EgQ6VUvEyroEvWtznJKl99",
+    "https://chat.whatsapp.com/Ht2Cb5ojW5K8LCObn0u9I7",
+    "https://chat.whatsapp.com/KkOVnH5pdOE2vRMMA3EeJt",
+    "https://chat.whatsapp.com/FNsu6duHaYbETGLDmc5RTD",
+    "https://chat.whatsapp.com/CTX3vH4rRlTAaZDuY8OYya",
+    "https://chat.whatsapp.com/LZpmjjBsPN3F6W5XnTdtTw",
+    "https://chat.whatsapp.com/CL7zgUoWaPf7Ip4i4zO1aY",
+    "https://chat.whatsapp.com/B6I3u6FGTB97LegptNfu7B",
+    "https://chat.whatsapp.com/EoNwBAfIRNhLDvU0fWTN8a",
+    "https://chat.whatsapp.com/HUsQBK1xNu702UEwn9cjLz",
+    "https://chat.whatsapp.com/Fhv2aSFIXdg5rOkWQfAHzs",
+    "https://chat.whatsapp.com/GhOhfTTXgqS9Vyb8MywHVh",
+    "https://chat.whatsapp.com/EkllK41mDm8FjTGCVEBvtd",
+    "https://chat.whatsapp.com/FYiK8Ma7B5VF3dJZgG8AYV",
+    "https://chat.whatsapp.com/D1uiHWrOUOH0MZ6ZZd6i0t",
+    "https://chat.whatsapp.com/JooD2PDPGWP2mJVrCl9V7c",
+    "https://chat.whatsapp.com/GZat5qpHhUTDo6FsxjkwZW",
+    "https://chat.whatsapp.com/BZQL7uzDSDe680yxWXLatJ",
+    "https://chat.whatsapp.com/Kx0lOm0Zlmk2WukuY8cRgC",
+    "https://chat.whatsapp.com/JheoLZC3WuIJyTkX1pb6ie",
+    "https://chat.whatsapp.com/Ev4hG50Mag16mDJlPIhSTj",
+    "https://chat.whatsapp.com/FEtvkOaCPgnC3MPDGD4suO",
+    "https://chat.whatsapp.com/FkzoKBKBInOIZRLpi0uTuS",
+    "https://chat.whatsapp.com/FsoSSEqQY22Cu8oHa3hMOG",
+    "https://chat.whatsapp.com/C0zhojjRN00KuayT8tKBKu",
+    "https://chat.whatsapp.com/JWS4sSB5yOp8VisGBoGTku",
+    "https://chat.whatsapp.com/LGh6rdvJA9v6J6xtI6oYxP",
+    "https://chat.whatsapp.com/ILLgUz9vpM19eGydhEL93g",
+    "https://chat.whatsapp.com/HbuNCV1C9Cl3cX9RptMHaM",
+    "https://chat.whatsapp.com/C7uuUzchaE43ZayQp2iYLQ",
+    "https://chat.whatsapp.com/L5dFfXgKW8PH52jbkAreW2",
+    "https://chat.whatsapp.com/HmwvfgyPklzAFQ0Z0Niv6B",
+    "https://chat.whatsapp.com/GBJccHCnBPh3UUudNBaoji",
+    "https://chat.whatsapp.com/IO8Wf5ZmP5iIHGsSsw1f5C",
+    "https://chat.whatsapp.com/KBZegbZEh6hAG6Q8KCdMgS",
+    "https://chat.whatsapp.com/BE6J7zsZKz86Lbggb4t8Wm",
+    "https://chat.whatsapp.com/EhzvQUXyPRoI1FG48NyVvI",
+    "https://chat.whatsapp.com/FcNggL3nuyYCjOO1WB1HkM",
+    "https://chat.whatsapp.com/Daqv18jlFdT1a7vqN6rMde",
+    "https://chat.whatsapp.com/C5JeD6RLVqr4dn43S14xtV",
+    "https://chat.whatsapp.com/FoqA5P39pAiLUGk9s2W90R",
+    "https://chat.whatsapp.com/LblqqXac3FSKcHehCBxPIO",
+    "https://chat.whatsapp.com/Ka90V7tsoYyD2vOsC6VRHV",
+    "https://chat.whatsapp.com/FE2yDpbnqI6951dp4Jm3mF",
+    "https://chat.whatsapp.com/DeR7jeMYzLyDxcfCvckwia",
+    "https://chat.whatsapp.com/DgebVxPeT0t3xzSwGXtCpo",
+    "https://chat.whatsapp.com/LEegboQIJygIHCdwqvC8C3",
+    "https://chat.whatsapp.com/EzDI8XbEQhvCvSYGBbf9Ms",
+    "https://chat.whatsapp.com/DBpDMGwEp7tHEUcyd9EpIY",
+    "https://chat.whatsapp.com/Hq17eHmCBP78qp0RBUQbIl",
+    "https://chat.whatsapp.com/KIGBmeijZB8KFonxNq7DZI",
+    "https://chat.whatsapp.com/JBqPtsZ6CJjKe3Qft9sL0t",
+    "https://chat.whatsapp.com/CP5fUUGnfiKFvfcpORLcJu",
+    "https://chat.whatsapp.com/Ew65ijZ73OkFC4HKw3x7mC",
+    "https://chat.whatsapp.com/BWCtN8qiGlDAOTMy7Q8xLS",
+    "https://chat.whatsapp.com/LPVf8BsAQp3LrWMQ7rqz71",
+    "https://chat.whatsapp.com/IFVy8SRDD3O7bWw15RGnOg",
+    "https://chat.whatsapp.com/GmSpgL6teYBD5mSY3ZomXI",
+    "https://chat.whatsapp.com/EkrrtrxG5bI8qok4Lwbv3Q",
+    "https://chat.whatsapp.com/B9B5AoPuljTKP4fZfN0Mcp",
+    "https://chat.whatsapp.com/Dh2LUsGJtY1HEFyiuMJjci",
+    "https://chat.whatsapp.com/LJcdtTWc8ui1nwB6FOsclV",
+    "https://chat.whatsapp.com/Iepa289AnkL87VDk7WNqYU",
+    "https://chat.whatsapp.com/DgLguwus0YlAqvs0ZL8mQG",
+    "https://chat.whatsapp.com/Jks7GcuxZmh6At8BrsKDwh",
+    "https://chat.whatsapp.com/EvCtqIujCtnAxujSxSCifx",
+    "https://chat.whatsapp.com/EV86kiEgL8QIdgdR8PfVdS",
+    "https://chat.whatsapp.com/IVHo3ZDkmFlHhU7x7VHt0Q",
+    "https://chat.whatsapp.com/IHawNPNQmUGLF5uoFDjw3m",
+    "https://chat.whatsapp.com/HNbej5Dtp6IEtsCRj3w4Ye",
+    "https://chat.whatsapp.com/EOh9CBIkvxA9qfYvDuXUgq",
+    "https://chat.whatsapp.com/KmrmviTSnaf47yC4KuzJDV",
+    "https://chat.whatsapp.com/K7XYAhz8BpV196IQCpIM6L",
+    "https://chat.whatsapp.com/JISdc08L7bHB6WtHaM5efL",
+    "https://chat.whatsapp.com/CRUVbAXTE0H2a6XZFAe013",
+    "https://chat.whatsapp.com/CobuqV8mP8A9V9m4W9CJHO",
+    "https://chat.whatsapp.com/JjgLRNw7xjq1a3Fu4JjTYS",
+    "https://chat.whatsapp.com/JYMfgpzLWdlL1Vj5eSXNPA",
+    "https://chat.whatsapp.com/LMWveWwPHo4DXJzXkdCGnS",
+    "https://chat.whatsapp.com/GrcJwbClyr0DFI8cAPhLx0",
+    "https://chat.whatsapp.com/IgEbTrkiZV0FlADBwCgHQL",
+    "https://chat.whatsapp.com/JV4z3obRKDz4dJHY3tLH9c",
+    "https://chat.whatsapp.com/Bp0j3C3cbWFC4607IWejrO",
+    "https://chat.whatsapp.com/Ly7wPisg0hnDjxtb6SnGJ2",
+    "https://chat.whatsapp.com/LFXMnLhV2HH8XF0Hj9lN2E",
+    "https://chat.whatsapp.com/HVoI3IIruLQHeC1ZCPKyp7",
+    "https://chat.whatsapp.com/EvL59nfY2qk9hOb9dqUg3e",
+    "https://chat.whatsapp.com/FHBsfgwv2nM6J2AD4YWgMn",
+    "https://chat.whatsapp.com/BV3WoIJIQ236z8yZzzqfHt",
+    "https://chat.whatsapp.com/D7zSD7SJEBoGa8Yl5rrBeR",
+    "https://chat.whatsapp.com/KRhpZtfPZ0AAJWffVZCEfx",
+    "https://chat.whatsapp.com/CQOCKqFDc6H8ExTQ6AeNc2",
+    "https://chat.whatsapp.com/Jh5TGzuJyZH0L8m55dYHSk",
+    "https://chat.whatsapp.com/LsZV570MF0mCAfJepKGQdn",
+    "https://chat.whatsapp.com/GnSsAwuXQa9GXsthfeRtrI",
+    "https://chat.whatsapp.com/D0suXs6cbr5DPoWj3yW8Fb",
+    "https://chat.whatsapp.com/I3qTGXHOrhOALk1gAyHojU",
+    "https://chat.whatsapp.com/LtUhI3jElHp8rxp9R3nrd2",
+    "https://chat.whatsapp.com/Hy3olD85Q93Dsj6xvQIkcp",
+    "https://chat.whatsapp.com/K4eDGSF12Qy2Zqja7K5BGF",
+    "https://chat.whatsapp.com/J4WRWIp7lLU3uyMdlrp1lN",
+    "https://chat.whatsapp.com/BZW3XQmLqPV3A8HGAuJjuu",
+    "https://chat.whatsapp.com/Kk2ATreNmXhCFTnjFglDtN",
+    "https://chat.whatsapp.com/DM0HphuxJmq7zxRaQVPVrY",
+    "https://chat.whatsapp.com/Cpk7IK0DfcZ872qrfArpj7",
+    "https://chat.whatsapp.com/B92bIzU2UZOJOpDn1rmT2f",
+    "https://chat.whatsapp.com/CVmofZGYvSqHLbLCmU39ig",
+    "https://chat.whatsapp.com/LDaItZ6K2iFB3tXh78pqqi",
+    "https://chat.whatsapp.com/DmnYtNbHzuPHCysVCQYiwT",
+    "https://chat.whatsapp.com/GweXLUcEh5MFgelVOwCBDv",
+    "https://chat.whatsapp.com/CbGpEOny6nv1xpnnvk93Cq",
+    "https://chat.whatsapp.com/DD3cmQVLSNP6MSuT3dDARH",
+    "https://chat.whatsapp.com/BnPxSdeH6pY4oZFIRS81rN",
+    "https://chat.whatsapp.com/LMLpS9Dw6rBFyasgH1R9wm",
+    "https://chat.whatsapp.com/Jd07AePdBGJBHmuJK1TF2j",
+    "https://chat.whatsapp.com/K7O7UUewra2LuHDzzQGNu4"
+  ],
   "notifications": [
-    {"id":"notif_1795680093299","title":"to users","message":"please use this slots id/link properly","category":"warning","created_by":"paxbar_","created_at":"2026-11-26T08:01:33.299Z","expires_at":null}
+    {
+      "id": "notif_1795680093299",
+      "title": "to users",
+      "message": "please use this slots id/link properly",
+      "category": "warning",
+      "created_by": "paxbar_",
+      "created_at": "2026-11-26T08:01:33.299Z",
+      "expires_at": null
+    }
   ],
   "entries": [
-    {"entry_id":"item_1793433473557","username":"paxbar_","role":"admin","type":"channel","target":"120363402868866359@newsletter","added_at":"2026-10-31T07:57:53.557Z"},
-    {"entry_id":"item_1795396560001","username":"paxbar_","role":"admin","type":"channel","target":"120363408089676699@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560002","username":"paxbar_","role":"admin","type":"channel","target":"120363411716205891@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560003","username":"paxbar_","role":"admin","type":"channel","target":"120363428774935419@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560004","username":"paxbar_","role":"admin","type":"channel","target":"120363413439601308@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560005","username":"paxbar_","role":"admin","type":"channel","target":"120363426667307310@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560006","username":"paxbar_","role":"admin","type":"channel","target":"120363406686429563@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560007","username":"paxbar_","role":"admin","type":"channel","target":"120363405193172531@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560008","username":"paxbar_","role":"admin","type":"channel","target":"120363424158231931@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560009","username":"paxbar_","role":"admin","type":"channel","target":"120363403511681857@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560010","username":"paxbar_","role":"admin","type":"channel","target":"120363423115859216@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560011","username":"paxbar_","role":"admin","type":"channel","target":"120363405751846099@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560012","username":"paxbar_","role":"admin","type":"channel","target":"120363425215539117@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560013","username":"paxbar_","role":"admin","type":"channel","target":"120363420688342363@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560014","username":"paxbar_","role":"admin","type":"channel","target":"120363407995934884@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560015","username":"paxbar_","role":"admin","type":"channel","target":"120363429092002554@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560016","username":"paxbar_","role":"admin","type":"channel","target":"120363427388697660@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560017","username":"paxbar_","role":"admin","type":"channel","target":"120363407428512399@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560018","username":"paxbar_","role":"admin","type":"channel","target":"120363406324148841@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560019","username":"paxbar_","role":"admin","type":"channel","target":"120363404648492357@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560020","username":"paxbar_","role":"admin","type":"channel","target":"120363424181296248@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560021","username":"paxbar_","role":"admin","type":"channel","target":"120363426143278720@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560022","username":"paxbar_","role":"admin","type":"channel","target":"120363411296609345@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560023","username":"paxbar_","role":"admin","type":"channel","target":"120363433749043121@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560024","username":"paxbar_","role":"admin","type":"channel","target":"120363430358975222@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560025","username":"paxbar_","role":"admin","type":"channel","target":"120363410850042322@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560026","username":"paxbar_","role":"admin","type":"channel","target":"120363410890367638@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560027","username":"paxbar_","role":"admin","type":"channel","target":"120363409922669756@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560028","username":"paxbar_","role":"admin","type":"channel","target":"120363412668474335@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560029","username":"paxbar_","role":"admin","type":"channel","target":"120363412098642346@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560030","username":"paxbar_","role":"admin","type":"channel","target":"120363424451340923@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560031","username":"paxbar_","role":"admin","type":"channel","target":"120363411265074152@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560032","username":"paxbar_","role":"admin","type":"channel","target":"120363414914476877@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560033","username":"paxbar_","role":"admin","type":"channel","target":"120363414230953029@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560034","username":"paxbar_","role":"admin","type":"channel","target":"120363432336294829@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560035","username":"paxbar_","role":"admin","type":"channel","target":"120363429135852533@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560036","username":"paxbar_","role":"admin","type":"channel","target":"120363428979242862@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560037","username":"paxbar_","role":"admin","type":"channel","target":"120363427316326601@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560038","username":"paxbar_","role":"admin","type":"channel","target":"120363430118500859@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560039","username":"paxbar_","role":"admin","type":"channel","target":"120363414543191162@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560040","username":"paxbar_","role":"admin","type":"channel","target":"120363409312214229@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560041","username":"paxbar_","role":"admin","type":"channel","target":"120363433152662852@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560042","username":"paxbar_","role":"admin","type":"channel","target":"120363431107765181@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560043","username":"paxbar_","role":"admin","type":"channel","target":"120363428371956007@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560044","username":"paxbar_","role":"admin","type":"channel","target":"120363430142122299@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560045","username":"paxbar_","role":"admin","type":"channel","target":"120363414696738425@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560046","username":"paxbar_","role":"admin","type":"channel","target":"120363432346092597@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560047","username":"paxbar_","role":"admin","type":"channel","target":"120363433498571895@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560048","username":"paxbar_","role":"admin","type":"channel","target":"120363414177323272@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560049","username":"paxbar_","role":"admin","type":"channel","target":"120363409276643593@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560050","username":"paxbar_","role":"admin","type":"channel","target":"120363406122525147@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560051","username":"paxbar_","role":"admin","type":"channel","target":"120363408427759643@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560052","username":"paxbar_","role":"admin","type":"channel","target":"120363432462670811@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560053","username":"paxbar_","role":"admin","type":"channel","target":"120363413987148854@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560054","username":"paxbar_","role":"admin","type":"channel","target":"120363427748941588@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560055","username":"paxbar_","role":"admin","type":"channel","target":"120363431633176134@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560056","username":"paxbar_","role":"admin","type":"channel","target":"120363430077534656@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560057","username":"paxbar_","role":"admin","type":"channel","target":"120363412470558999@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560058","username":"paxbar_","role":"admin","type":"channel","target":"120363412941726380@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560059","username":"paxbar_","role":"admin","type":"channel","target":"120363424482798113@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560060","username":"paxbar_","role":"admin","type":"channel","target":"120363431999160515@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560061","username":"paxbar_","role":"admin","type":"channel","target":"120363433437284859@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560062","username":"paxbar_","role":"admin","type":"channel","target":"120363409053880514@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560063","username":"paxbar_","role":"admin","type":"channel","target":"120363408557680754@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560064","username":"paxbar_","role":"admin","type":"channel","target":"120363431104887010@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560065","username":"paxbar_","role":"admin","type":"channel","target":"120363410697545748@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560066","username":"paxbar_","role":"admin","type":"channel","target":"120363429855943961@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560067","username":"paxbar_","role":"admin","type":"channel","target":"120363427050583863@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560068","username":"paxbar_","role":"admin","type":"channel","target":"120363428829969508@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560069","username":"paxbar_","role":"admin","type":"channel","target":"120363437898918771@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560070","username":"paxbar_","role":"admin","type":"channel","target":"120363432897831417@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560071","username":"paxbar_","role":"admin","type":"channel","target":"120363410214539431@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560072","username":"paxbar_","role":"admin","type":"channel","target":"120363428973163018@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560073","username":"paxbar_","role":"admin","type":"channel","target":"120363425359921782@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560074","username":"paxbar_","role":"admin","type":"channel","target":"120363409706127867@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560075","username":"paxbar_","role":"admin","type":"channel","target":"120363428402662553@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560076","username":"paxbar_","role":"admin","type":"channel","target":"120363411321962596@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560077","username":"paxbar_","role":"admin","type":"channel","target":"120363429538726333@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560078","username":"paxbar_","role":"admin","type":"channel","target":"120363427682692073@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560079","username":"paxbar_","role":"admin","type":"channel","target":"120363429811226222@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560080","username":"paxbar_","role":"admin","type":"channel","target":"120363428848166418@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560081","username":"paxbar_","role":"admin","type":"channel","target":"120363409316377061@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560082","username":"paxbar_","role":"admin","type":"channel","target":"120363428801407191@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560083","username":"paxbar_","role":"admin","type":"channel","target":"120363410549162379@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560084","username":"paxbar_","role":"admin","type":"channel","target":"120363429076295887@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560085","username":"paxbar_","role":"admin","type":"channel","target":"120363429744175174@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560086","username":"paxbar_","role":"admin","type":"channel","target":"120363413278979105@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560087","username":"paxbar_","role":"admin","type":"channel","target":"120363429356347366@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560088","username":"paxbar_","role":"admin","type":"channel","target":"120363428122270223@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560089","username":"paxbar_","role":"admin","type":"channel","target":"120363410472759582@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560090","username":"paxbar_","role":"admin","type":"channel","target":"120363410543597599@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560091","username":"paxbar_","role":"admin","type":"channel","target":"120363429192436048@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560092","username":"paxbar_","role":"admin","type":"channel","target":"120363427776409140@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560093","username":"paxbar_","role":"admin","type":"channel","target":"120363409638252154@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560094","username":"paxbar_","role":"admin","type":"channel","target":"120363430826554103@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560095","username":"paxbar_","role":"admin","type":"channel","target":"120363412414650149@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560096","username":"paxbar_","role":"admin","type":"channel","target":"120363410909841665@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560097","username":"paxbar_","role":"admin","type":"channel","target":"120363429844517342@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560098","username":"paxbar_","role":"admin","type":"channel","target":"120363408351032775@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560099","username":"paxbar_","role":"admin","type":"channel","target":"120363427055897107@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560100","username":"paxbar_","role":"admin","type":"channel","target":"120363427297886091@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560101","username":"paxbar_","role":"admin","type":"channel","target":"120363428141035252@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560102","username":"paxbar_","role":"admin","type":"channel","target":"120363410455268894@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560103","username":"paxbar_","role":"admin","type":"channel","target":"120363429586673348@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560104","username":"paxbar_","role":"admin","type":"channel","target":"120363410642055478@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560105","username":"paxbar_","role":"admin","type":"channel","target":"120363409551736932@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560106","username":"paxbar_","role":"admin","type":"channel","target":"120363431631705822@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560107","username":"paxbar_","role":"admin","type":"channel","target":"120363429020395437@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560108","username":"paxbar_","role":"admin","type":"channel","target":"120363427565293814@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560109","username":"paxbar_","role":"admin","type":"channel","target":"120363429584204354@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560110","username":"paxbar_","role":"admin","type":"channel","target":"120363411415827346@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560111","username":"paxbar_","role":"admin","type":"channel","target":"120363408696993418@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560112","username":"paxbar_","role":"admin","type":"channel","target":"120363428003646110@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560113","username":"paxbar_","role":"admin","type":"channel","target":"120363429832164310@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560114","username":"paxbar_","role":"admin","type":"channel","target":"120363413722516941@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560115","username":"paxbar_","role":"admin","type":"channel","target":"120363432127564393@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560116","username":"paxbar_","role":"admin","type":"channel","target":"120363411821021860@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560117","username":"paxbar_","role":"admin","type":"channel","target":"120363428814057436@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560118","username":"paxbar_","role":"admin","type":"channel","target":"120363412498881892@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560119","username":"paxbar_","role":"admin","type":"channel","target":"120363414601607112@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560120","username":"paxbar_","role":"admin","type":"channel","target":"120363413026726018@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560121","username":"paxbar_","role":"admin","type":"channel","target":"120363411763335520@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560122","username":"paxbar_","role":"admin","type":"channel","target":"120363412819415728@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560123","username":"paxbar_","role":"admin","type":"channel","target":"120363413883118135@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560124","username":"paxbar_","role":"admin","type":"channel","target":"120363430399987633@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560125","username":"paxbar_","role":"admin","type":"channel","target":"120363429124700141@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560126","username":"paxbar_","role":"admin","type":"channel","target":"120363432289926526@newsletter","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560127","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/K79LQJEiYzu5zpBDAtRWmu","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560128","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/HfRnkKvjnliJzNwHRPnrOk","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560129","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/L7wyYQgPUqCAimC7JA8SIn","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560130","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/F60XvoSx5XbFhZFzlccvsh","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560131","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/CjapDnyEHns9ROpO51KQrL","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560132","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Igp2dDGBDmwDkzUg1sjnCJ","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560133","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Ib87wxPyxjRDgPrclKQ3wP","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560134","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/DnL3PkgJ154HAbrqnja081","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560135","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KoLjTFBFuydDGPdrrUtGK8","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560136","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/BNZQAoqqAAq235ieZ0m0L4","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560137","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/GbQ9qOyIJm00y34zUo4NBR","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560138","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Jrm6y8ECs1KFQDQ1fjQbZA","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560139","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Fo9Q9dLWodp5hxDtGUD9el","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560140","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Kf5Qggk6TzDCZS7zxXBHNI","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560141","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Kn7MEpQSq3mHhPwKc7F04f","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560142","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/F8t97k62D4XAVrCSpjM1mi","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560143","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Lv7wEP5QNiAHeYfnQh6Q6a","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560144","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/LCDZsgQSFj6C9CNcUvZLAC","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560145","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Cg9KKP5i8a2CxwfBRykHbO","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560146","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/GGIcF1mVkAH3kShPtRomYt","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560147","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/JN6AcSRSYcp36vFM0mXkdb","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560148","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/DeQeH5Wsm0B0jt1KPwweMP","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560149","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/BZTPJSH3IO4D2v9cmSrtgp","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560150","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/BhQvxYs8IaTItFpe4Mz0sF","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560151","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FGWWL3qbWnqJ4lcbuJ62fi","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560152","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EMnaN2cdKDEJR1eTVY3B3m","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560153","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/GjCPIkrSCfD010LVV2aMiW","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560154","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/HfCQLfqrNAQBMNSOJ5P88q","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560155","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/DQBJu8LzbYN8doPaz3wVFB","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560156","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KSWOQ9LQK5RKSFVJtvBlkJ","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560157","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/DbEdFh1WbhTAOi1xZVAiDw","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560158","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KU7KLHBw4Yl65geH6jo7pM","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560159","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/BTyVCzbJ8SAIeUP1JUCnqs","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560160","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FvLimeXPuQ8KArtNM4uH7Y","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560161","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EceVQmwqpz73dxQmP0id6N","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560162","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KbPKNLJS0Id7Ux0LPu50gz","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560163","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Dc1INJcKhNgKGVUaLQ8wwW","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560164","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/IxHGqQkNcRWIVKxKpiSGjJ","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560165","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FjmTHlpCjQS0XHBzw097oa","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560166","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/GcdAAtyWfS4DG6P6rlRLcx","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560167","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FWK2GHOfGfXDP2ZYHJc2kL","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560168","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/GUpD2xXsIUA6p2pptsCnj5","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560169","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/K1Ff5KObtonEEFbt3ulo13","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560170","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/CoGg6GdjVmtE4GDGew7X6e","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560171","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KqwdXEAfSlPDrKUXze39Lm","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560172","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/JrWGccmg5Ya7Qyx2eVIguG","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560173","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/BV6qeyLomPLJDw2nvHh1Qf","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560174","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KMG2erUKcEjBlYpIpkFJN4","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560175","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KhZ9o4Ab715K8LCNV1YHjR","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560176","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FHXJzDBmx297eirMK3DKpj","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560177","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/BrvLR5Y7y0tJALRwgF2bqJ","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560178","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/HOUpS0LVPFtBL3Rg0J0STD","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560179","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Jtog2G9uFja6o19xjhE93n","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560180","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/DBcM7Daagvk0pAvIJlNIhK","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560181","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EFTWp7dQ9JGGjQA0hdSLJH","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560182","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/HlLIbJbdLCS81DRmKELxMi","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560183","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/CAwoCPiYNoM8avx0tL59j3","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560184","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EgQ6VUvEyroEvWtznJKl99","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560185","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Ht2Cb5ojW5K8LCObn0u9I7","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560186","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KkOVnH5pdOE2vRMMA3EeJt","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560187","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FNsu6duHaYbETGLDmc5RTD","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560188","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/CTX3vH4rRlTAaZDuY8OYya","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560189","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/LZpmjjBsPN3F6W5XnTdtTw","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560190","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/CL7zgUoWaPf7Ip4i4zO1aY","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560191","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/B6I3u6FGTB97LegptNfu7B","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560192","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EoNwBAfIRNhLDvU0fWTN8a","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560193","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/HUsQBK1xNu702UEwn9cjLz","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560194","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Fhv2aSFIXdg5rOkWQfAHzs","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560195","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/GhOhfTTXgqS9Vyb8MywHVh","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560196","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EkllK41mDm8FjTGCVEBvtd","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560197","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FYiK8Ma7B5VF3dJZgG8AYV","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560198","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/D1uiHWrOUOH0MZ6ZZd6i0t","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560199","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/JooD2PDPGWP2mJVrCl9V7c","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560200","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/GZat5qpHhUTDo6FsxjkwZW","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560201","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/BZQL7uzDSDe680yxWXLatJ","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560202","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Kx0lOm0Zlmk2WukuY8cRgC","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560203","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/JheoLZC3WuIJyTkX1pb6ie","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560204","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Ev4hG50Mag16mDJlPIhSTj","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560205","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FEtvkOaCPgnC3MPDGD4suO","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560206","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FkzoKBKBInOIZRLpi0uTuS","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560207","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FsoSSEqQY22Cu8oHa3hMOG","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560208","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/C0zhojjRN00KuayT8tKBKu","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560209","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/JWS4sSB5yOp8VisGBoGTku","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560210","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/LGh6rdvJA9v6J6xtI6oYxP","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560211","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/ILLgUz9vpM19eGydhEL93g","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560212","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/HbuNCV1C9Cl3cX9RptMHaM","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560213","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/C7uuUzchaE43ZayQp2iYLQ","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560214","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/L5dFfXgKW8PH52jbkAreW2","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560215","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/HmwvfgyPklzAFQ0Z0Niv6B","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560216","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/GBJccHCnBPh3UUudNBaoji","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560217","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/IO8Wf5ZmP5iIHGsSsw1f5C","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560218","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KBZegbZEh6hAG6Q8KCdMgS","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560219","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/BE6J7zsZKz86Lbggb4t8Wm","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560220","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EhzvQUXyPRoI1FG48NyVvI","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560221","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FcNggL3nuyYCjOO1WB1HkM","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560222","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Daqv18jlFdT1a7vqN6rMde","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560223","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/C5JeD6RLVqr4dn43S14xtV","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560224","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FoqA5P39pAiLUGk9s2W90R","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560225","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/LblqqXac3FSKcHehCBxPIO","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560226","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Ka90V7tsoYyD2vOsC6VRHV","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560227","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/FE2yDpbnqI6951dp4Jm3mF","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560228","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/DeR7jeMYzLyDxcfCvckwia","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560229","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/DgebVxPeT0t3xzSwGXtCpo","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560230","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/LEegboQIJygIHCdwqvC8C3","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560231","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EzDI8XbEQhvCvSYGBbf9Ms","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560232","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/DBpDMGwEp7tHEUcyd9EpIY","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560233","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Hq17eHmCBP78qp0RBUQbIl","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560234","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KIGBmeijZB8KFonxNq7DZI","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560235","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/JBqPtsZ6CJjKe3Qft9sL0t","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560236","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/CP5fUUGnfiKFvfcpORLcJu","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560237","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Ew65ijZ73OkFC4HKw3x7mC","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560238","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/BWCtN8qiGlDAOTMy7Q8xLS","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560239","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/LPVf8BsAQp3LrWMQ7rqz71","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560240","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/IFVy8SRDD3O7bWw15RGnOg","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560241","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/GmSpgL6teYBD5mSY3ZomXI","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560242","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EkrrtrxG5bI8qok4Lwbv3Q","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560243","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/B9B5AoPuljTKP4fZfN0Mcp","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560244","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Dh2LUsGJtY1HEFyiuMJjci","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560245","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/LJcdtTWc8ui1nwB6FOsclV","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560246","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Iepa289AnkL87VDk7WNqYU","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560247","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/DgLguwus0YlAqvs0ZL8mQG","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560248","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Jks7GcuxZmh6At8BrsKDwh","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560249","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EvCtqIujCtnAxujSxSCifx","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560250","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EV86kiEgL8QIdgdR8PfVdS","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560251","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/IVHo3ZDkmFlHhU7x7VHt0Q","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560252","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/IHawNPNQmUGLF5uoFDjw3m","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560253","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/HNbej5Dtp6IEtsCRj3w4Ye","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560254","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/EOh9CBIkvxA9qfYvDuXUgq","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560255","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/KmrmviTSnaf47yC4KuzJDV","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560256","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/K7XYAhz8BpV196IQCpIM6L","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560257","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/JISdc08L7bHB6WtHaM5efL","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560258","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/CRUVbAXTE0H2a6XZFAe013","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560259","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/CobuqV8mP8A9V9m4W9CJHO","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560260","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/JjgLRNw7xjq1a3Fu4JjTYS","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560261","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/JYMfgpzLWdlL1Vj5eSXNPA","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560262","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/LMWveWwPHo4DXJzXkdCGnS","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560263","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/GrcJwbClyr0DFI8cAPhLx0","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560264","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Kl7s7u5ciAwHeazjdltonE","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560265","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/DSIdFacWhK89qQg7IRGZ2I","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560266","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/IgEbTrkiZV0FlADBwCgHQL","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560267","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/JV4z3obRKDz4dJHY3tLH9c","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560268","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Bp0j3C3cbWFC4607IWejrO","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560269","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/Ly7wPisg0hnDjxtb6SnGJ2","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795396560270","username":"paxbar_","role":"admin","type":"group","target":"https://chat.whatsapp.com/LFXMnLhV2HH8XF0Hj9lN2E","added_at":"2026-11-23T01:16:00.000Z"},
-    {"entry_id":"item_1795397226321","username":"paxbar_2","role":"user","type":"channel","target":"120xxxxxxxxxxx@newsletter","added_at":"2026-11-23T01:27:06.321Z"},
-    {"entry_id":"item_1795404642616","username":"kyouan","role":"user","type":"channel","target":"120363428983975433@newsletter","added_at":"2026-11-23T03:30:42.616Z"},
-    {"entry_id":"item_1795411743607","username":"dapzy","role":"user","type":"channel","target":"120363412370699857@newsletter","added_at":"2026-11-23T05:29:03.607Z"},
-    {"entry_id":"item_1795414485436","username":"kapotid","role":"user","type":"channel","target":"120363407728627709@newsletter","added_at":"2026-11-23T06:14:45.436Z"},
-    {"entry_id":"item_1795416679241","username":"danang","role":"user","type":"channel","target":"120363427239417923@newsletter","added_at":"2026-11-23T06:51:19.241Z"},
-    {"entry_id":"item_1795416714648","username":"danang","role":"user","type":"channel","target":"120363409297123784@newsletter","added_at":"2026-11-23T06:51:54.648Z"},
-    {"entry_id":"item_1795421616426","username":"dilxzcode","role":"user","type":"channel","target":"120363330289360382@newsletter","added_at":"2026-11-23T08:13:36.426Z"},
-    {"entry_id":"item_1795421631088","username":"dilxzcode","role":"user","type":"channel","target":"120363410963068584@newsletter","added_at":"2026-11-23T08:13:51.088Z"},
-    {"entry_id":"item_1795427920852","username":"kyouan","role":"user","type":"channel","target":"120363433439503750@newsletter","added_at":"2026-11-23T09:58:40.852Z"},
-    {"entry_id":"item_1795427994023","username":"kyouan","role":"user","type":"channel","target":"120363433114127008@newsletter","added_at":"2026-11-23T09:59:54.023Z"},
-    {"entry_id":"item_1795428118429","username":"kyouan","role":"user","type":"channel","target":"120363434262071225@newsletter","added_at":"2026-11-23T10:01:58.429Z"},
-    {"entry_id":"item_1795428182501","username":"kyouan","role":"user","type":"channel","target":"120363432092690378@newsletter","added_at":"2026-11-23T10:03:02.501Z"},
-    {"entry_id":"item_1795428403101","username":"kyouan","role":"user","type":"channel","target":"120363432296117803@newsletter","added_at":"2026-11-23T10:06:43.101Z"},
-    {"entry_id":"item_1795428744905","username":"kyouan","role":"user","type":"channel","target":"120363432257660629@newsletter","added_at":"2026-11-23T10:12:24.905Z"},
-    {"entry_id":"item_1795428813015","username":"kyouan","role":"user","type":"channel","target":"120363434360917997@newsletter","added_at":"2026-11-23T10:13:33.015Z"},
-    {"entry_id":"item_1795428882418","username":"kyouan","role":"user","type":"channel","target":"120363431780919646@newsletter","added_at":"2026-11-23T10:14:42.418Z"},
-    {"entry_id":"item_1795429151157","username":"kyouan","role":"user","type":"channel","target":"120363433436641693@newsletter","added_at":"2026-11-23T10:19:11.157Z"},
-    {"entry_id":"item_1795429276558","username":"kyouan","role":"user","type":"channel","target":"120363432371701170@newsletter","added_at":"2026-11-23T10:21:16.558Z"},
-    {"entry_id":"item_1795429346941","username":"kyouan","role":"user","type":"channel","target":"120363430832111430@newsletter","added_at":"2026-11-23T10:22:26.941Z"},
-    {"entry_id":"item_1795429956735","username":"kapotid","role":"user","type":"channel","target":"120363422066682134@newsletter","added_at":"2026-11-23T10:32:36.735Z"},
-    {"entry_id":"item_1795435266308","username":"alluffy","role":"user","type":"channel","target":"120363429886773758@newsletter","added_at":"2026-11-23T12:01:06.308Z"},
-    {"entry_id":"item_1795435312544","username":"alluffy","role":"user","type":"channel","target":"120363415174135095@newsletter","added_at":"2026-11-23T12:01:52.544Z"},
-    {"entry_id":"item_1795435328385","username":"alluffy","role":"user","type":"channel","target":"120363415437956024@newsletter","added_at":"2026-11-23T12:02:08.385Z"},
-    {"entry_id":"item_1795435337314","username":"alluffy","role":"user","type":"channel","target":"120363414523268238@newsletter","added_at":"2026-11-23T12:02:17.314Z"},
-    {"entry_id":"item_1795435344757","username":"alluffy","role":"user","type":"channel","target":"120363429387190401@newsletter","added_at":"2026-11-23T12:02:24.757Z"},
-    {"entry_id":"item_1795435353891","username":"alluffy","role":"user","type":"channel","target":"120363430873189342@newsletter","added_at":"2026-11-23T12:02:33.891Z"},
-    {"entry_id":"item_1795435361466","username":"alluffy","role":"user","type":"channel","target":"120363413962482956@newsletter","added_at":"2026-11-23T12:02:41.466Z"},
-    {"entry_id":"item_1795435372777","username":"alluffy","role":"user","type":"channel","target":"120363433842322754@newsletter","added_at":"2026-11-23T12:02:52.777Z"},
-    {"entry_id":"item_1795435381753","username":"alluffy","role":"user","type":"channel","target":"120363432638976255@newsletter","added_at":"2026-11-23T12:03:01.753Z"},
-    {"entry_id":"item_1795435394302","username":"alluffy","role":"user","type":"channel","target":"120363432678062191@newsletter","added_at":"2026-11-23T12:03:14.302Z"},
-    {"entry_id":"item_1795594034542","username":"rizz","role":"user","type":"channel","target":"120363404634538235@newsletter","added_at":"2026-11-25T08:07:14.542Z"},
-    {"entry_id":"item_1795594056441","username":"rizz","role":"user","type":"channel","target":"120363353304302947@newsletter","added_at":"2026-11-25T08:07:36.441Z"},
-    {"entry_id":"item_1795594255232","username":"rizz","role":"user","type":"channel","target":"120363423615802904@newsletter","added_at":"2026-11-25T08:10:55.232Z"},
-    {"entry_id":"item_1795594352169","username":"rizz","role":"user","type":"channel","target":"120363408663530338@newsletter","added_at":"2026-11-25T08:12:32.169Z"},
-    {"entry_id":"item_1795594389651","username":"rizz","role":"user","type":"channel","target":"120363411509441178@newsletter","added_at":"2026-11-25T08:13:09.651Z"},
-    {"entry_id":"item_1795594412389","username":"rizz","role":"user","type":"channel","target":"120363413522322118@newsletter","added_at":"2026-11-25T08:13:32.389Z"},
-    {"entry_id":"item_1795594481141","username":"rizz","role":"user","type":"channel","target":"120363413108765812@newsletter","added_at":"2026-11-25T08:14:41.141Z"},
-    {"entry_id":"item_1795614658291","username":"F4n","role":"user","type":"channel","target":"120363433791989945@newsletter","added_at":"2026-11-25T13:50:58.291Z"},
-    {"entry_id":"item_1795614703316","username":"F4n","role":"user","type":"channel","target":"120363411810206911@newsletter","added_at":"2026-11-25T13:51:43.316Z"},
-    {"entry_id":"item_1795614732475","username":"F4n","role":"user","type":"channel","target":"120363430514470984@newsletter","added_at":"2026-11-25T13:52:12.475Z"},
-    {"entry_id":"item_1795614757404","username":"F4n","role":"user","type":"channel","target":"120363422852695330@newsletter","added_at":"2026-11-25T13:52:37.404Z"},
-    {"entry_id":"item_1795614780336","username":"F4n","role":"user","type":"channel","target":"120363407007671503@newsletter","added_at":"2026-11-25T13:53:00.336Z"},
-    {"entry_id":"item_1795614806017","username":"F4n","role":"user","type":"channel","target":"120363413718014885@newsletter","added_at":"2026-11-25T13:53:26.017Z"},
-    {"entry_id":"item_1795614838217","username":"F4n","role":"user","type":"channel","target":"120363432701530285@newsletter","added_at":"2026-11-25T13:53:58.217Z"},
-    {"entry_id":"item_1795619095020","username":"dilxzcode","role":"user","type":"channel","target":"120363429511281710@newsletter","added_at":"2026-11-25T15:04:55.020Z"},
-    {"entry_id":"item_1795619106323","username":"dilxzcode","role":"user","type":"channel","target":"120363409782361079@newsletter","added_at":"2026-11-25T15:05:06.323Z"},
-    {"entry_id":"item_1795640028467","username":"ardhita","role":"user","type":"channel","target":"120363412622818481@newsletter","added_at":"2026-11-25T20:53:48.467Z"},
-    {"entry_id":"item_1795640163946","username":"ardhita","role":"user","type":"channel","target":"120363408896784304@newsletter","added_at":"2026-11-25T20:56:03.946Z"},
-    {"entry_id":"item_1795640191556","username":"ardhita","role":"user","type":"channel","target":"120363408138853894@newsletter","added_at":"2026-11-25T20:56:31.556Z"},
-    {"entry_id":"item_1795640273623","username":"ardhita","role":"user","type":"channel","target":"120363427195742278@newsletter","added_at":"2026-11-25T20:57:53.623Z"},
-    {"entry_id":"item_1795640300163","username":"ardhita","role":"user","type":"channel","target":"120363430155696714@newsletter","added_at":"2026-11-25T20:58:20.163Z"},
-    {"entry_id":"item_1795640324624","username":"ardhita","role":"user","type":"channel","target":"120363430162624582@newsletter","added_at":"2026-11-25T20:58:44.624Z"},
-    {"entry_id":"item_1795640348711","username":"ardhita","role":"user","type":"channel","target":"120363431089626907@newsletter","added_at":"2026-11-25T20:59:08.711Z"},
-    {"entry_id":"item_1795640379287","username":"ardhita","role":"user","type":"channel","target":"120363431229173556@newsletter","added_at":"2026-11-25T20:59:39.287Z"},
-    {"entry_id":"item_1795640416789","username":"ardhita","role":"user","type":"channel","target":"120363431697168674@newsletter","added_at":"2026-11-25T21:00:16.789Z"},
-    {"entry_id":"item_1795640441601","username":"ardhita","role":"user","type":"channel","target":"120363432214611213@newsletter","added_at":"2026-11-25T21:00:41.601Z"},
-    {"entry_id":"item_1795640471334","username":"ardhita","role":"user","type":"channel","target":"120363430481609450@newsletter","added_at":"2026-11-25T21:01:11.334Z"},
-    {"entry_id":"item_1795640502836","username":"ardhita","role":"user","type":"channel","target":"120363412619997370@newsletter","added_at":"2026-11-25T21:01:42.836Z"},
-    {"entry_id":"item_1795640547400","username":"ardhita","role":"user","type":"channel","target":"120363412595647526@newsletter","added_at":"2026-11-25T21:02:27.400Z"},
-    {"entry_id":"item_1795640575697","username":"ardhita","role":"user","type":"channel","target":"120363413694691041@newsletter","added_at":"2026-11-25T21:02:55.697Z"},
-    {"entry_id":"item_1795640607238","username":"ardhita","role":"user","type":"channel","target":"120363430669646700@newsletter","added_at":"2026-11-25T21:03:27.238Z"},
-    {"entry_id":"item_1795640632692","username":"ardhita","role":"user","type":"channel","target":"120363432035782974@newsletter","added_at":"2026-11-25T21:03:52.692Z"},
-    {"entry_id":"item_1795640656704","username":"ardhita","role":"user","type":"channel","target":"120363429737336632@newsletter","added_at":"2026-11-25T21:04:16.704Z"},
-    {"entry_id":"item_1795640682853","username":"ardhita","role":"user","type":"channel","target":"120363413333208583@newsletter","added_at":"2026-11-25T21:04:42.853Z"},
-    {"entry_id":"item_1795640706659","username":"ardhita","role":"user","type":"channel","target":"120363427235262341@newsletter","added_at":"2026-11-25T21:05:06.659Z"},
-    {"entry_id":"item_1795640731283","username":"ardhita","role":"user","type":"channel","target":"120363430354183399@newsletter","added_at":"2026-11-25T21:05:31.283Z"},
-    {"entry_id":"item_1795640754781","username":"ardhita","role":"user","type":"channel","target":"120363413090536080@newsletter","added_at":"2026-11-25T21:05:54.781Z"},
-    {"entry_id":"item_1795640778458","username":"ardhita","role":"user","type":"channel","target":"120363413695505986@newsletter","added_at":"2026-11-25T21:06:18.458Z"},
-    {"entry_id":"item_1795640803921","username":"ardhita","role":"user","type":"channel","target":"120363430336453731@newsletter","added_at":"2026-11-25T21:06:43.921Z"},
-    {"entry_id":"item_1795640827368","username":"ardhita","role":"user","type":"channel","target":"120363429875803170@newsletter","added_at":"2026-11-25T21:07:07.368Z"},
-    {"entry_id":"item_1795640854472","username":"ardhita","role":"user","type":"channel","target":"120363413211025808@newsletter","added_at":"2026-11-25T21:07:34.472Z"},
-    {"entry_id":"item_1795654228265","username":"yuki","role":"user","type":"channel","target":"120363432927225089@newsletter","added_at":"2026-11-26T00:50:28.265Z"},
-    {"entry_id":"item_1795658238182","username":"szxenn","role":"user","type":"channel","target":"120363307077684911@newsletter","added_at":"2026-11-26T01:57:18.182Z"},
-    {"entry_id":"item_1795658260242","username":"szxenn","role":"user","type":"channel","target":"120363370522421644@newsletter","added_at":"2026-11-26T01:57:40.242Z"},
-    {"entry_id":"item_1795658271563","username":"szxenn","role":"user","type":"channel","target":"120363408159125529@newsletter","added_at":"2026-11-26T01:57:51.563Z"},
-    {"entry_id":"item_1795658289412","username":"szxenn","role":"user","type":"channel","target":"120363423248494885@newsletter","added_at":"2026-11-26T01:58:09.412Z"},
-    {"entry_id":"item_1795658302443","username":"szxenn","role":"user","type":"channel","target":"120363423666771129@newsletter","added_at":"2026-11-26T01:58:22.443Z"},
-    {"entry_id":"item_1795658319210","username":"szxenn","role":"user","type":"channel","target":"120363405390404298@newsletter","added_at":"2026-11-26T01:58:39.210Z"},
-    {"entry_id":"item_1795658333169","username":"szxenn","role":"user","type":"channel","target":"120363412466364658@newsletter","added_at":"2026-11-26T01:58:53.169Z"},
-    {"entry_id":"item_1795658345445","username":"szxenn","role":"user","type":"channel","target":"120363411240800225@newsletter","added_at":"2026-11-26T01:59:05.445Z"},
-    {"entry_id":"item_1795658361407","username":"szxenn","role":"user","type":"channel","target":"120363430046790456@newsletter","added_at":"2026-11-26T01:59:21.407Z"},
-    {"entry_id":"item_1795658378925","username":"szxenn","role":"user","type":"channel","target":"120363411961808246@newsletter","added_at":"2026-11-26T01:59:38.925Z"},
-    {"entry_id":"item_1795669386521","username":"ardhita","role":"user","type":"channel","target":"120363414269959043@newsletter","added_at":"2026-11-26T05:03:06.521Z"},
-    {"entry_id":"item_1795669408304","username":"ardhita","role":"user","type":"channel","target":"120363432578760790@newsletter","added_at":"2026-11-26T05:03:28.304Z"},
-    {"entry_id":"item_1795669423094","username":"ardhita","role":"user","type":"channel","target":"120363413535905740@newsletter","added_at":"2026-11-26T05:03:43.094Z"},
-    {"entry_id":"item_1795669440608","username":"ardhita","role":"user","type":"channel","target":"120363433078072515@newsletter","added_at":"2026-11-26T05:04:00.608Z"},
-    {"entry_id":"item_1795669457275","username":"ardhita","role":"user","type":"channel","target":"120363412772173961@newsletter","added_at":"2026-11-26T05:04:17.275Z"},
-    {"entry_id":"item_1795669470210","username":"ardhita","role":"user","type":"channel","target":"120363412265633972@newsletter","added_at":"2026-11-26T05:04:30.210Z"},
-    {"entry_id":"item_1795669490397","username":"ardhita","role":"user","type":"channel","target":"120363430893651312@newsletter","added_at":"2026-11-26T05:04:50.397Z"},
-    {"entry_id":"item_1795669507226","username":"ardhita","role":"user","type":"channel","target":"120363414165430562@newsletter","added_at":"2026-11-26T05:05:07.226Z"},
-    {"entry_id":"item_1795669589929","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/HVoI3IIruLQHeC1ZCPKyp7","added_at":"2026-11-26T05:06:29.929Z"},
-    {"entry_id":"item_1795669610291","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/EvL59nfY2qk9hOb9dqUg3e","added_at":"2026-11-26T05:06:50.291Z"},
-    {"entry_id":"item_1795669634500","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/FHBsfgwv2nM6J2AD4YWgMn","added_at":"2026-11-26T05:07:14.500Z"},
-    {"entry_id":"item_1795669657783","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/BV3WoIJIQ236z8yZzzqfHt","added_at":"2026-11-26T05:07:37.783Z"},
-    {"entry_id":"item_1795669675977","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/D7zSD7SJEBoGa8Yl5rrBeR","added_at":"2026-11-26T05:07:55.977Z"},
-    {"entry_id":"item_1795669744402","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/KRhpZtfPZ0AAJWffVZCEfx","added_at":"2026-11-26T05:09:04.402Z"},
-    {"entry_id":"item_1795669763960","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/CQOCKqFDc6H8ExTQ6AeNc2","added_at":"2026-11-26T05:09:23.960Z"},
-    {"entry_id":"item_1795669787141","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/Jh5TGzuJyZH0L8m55dYHSk","added_at":"2026-11-26T05:09:47.142Z"},
-    {"entry_id":"item_1795669807068","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/LsZV570MF0mCAfJepKGQdn","added_at":"2026-11-26T05:10:07.068Z"},
-    {"entry_id":"item_1795669827318","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/GnSsAwuXQa9GXsthfeRtrI","added_at":"2026-11-26T05:10:27.318Z"},
-    {"entry_id":"item_1795669843147","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/D0suXs6cbr5DPoWj3yW8Fb","added_at":"2026-11-26T05:10:43.147Z"},
-    {"entry_id":"item_1795669862227","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/I3qTGXHOrhOALk1gAyHojU","added_at":"2026-11-26T05:11:02.227Z"},
-    {"entry_id":"item_1795669881830","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/LtUhI3jElHp8rxp9R3nrd2","added_at":"2026-11-26T05:11:21.830Z"},
-    {"entry_id":"item_1795669899578","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/Hy3olD85Q93Dsj6xvQIkcp","added_at":"2026-11-26T05:11:39.578Z"},
-    {"entry_id":"item_1795669920294","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/K4eDGSF12Qy2Zqja7K5BGF","added_at":"2026-11-26T05:12:00.294Z"},
-    {"entry_id":"item_1795669943121","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/J4WRWIp7lLU3uyMdlrp1lN","added_at":"2026-11-26T05:12:23.121Z"},
-    {"entry_id":"item_1795669957744","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/BZW3XQmLqPV3A8HGAuJjuu","added_at":"2026-11-26T05:12:37.744Z"},
-    {"entry_id":"item_1795669972271","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/Kk2ATreNmXhCFTnjFglDtN","added_at":"2026-11-26T05:12:52.271Z"},
-    {"entry_id":"item_1795669986793","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/DM0HphuxJmq7zxRaQVPVrY","added_at":"2026-11-26T05:13:06.793Z"},
-    {"entry_id":"item_1795669997775","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/Cpk7IK0DfcZ872qrfArpj7","added_at":"2026-11-26T05:13:17.775Z"},
-    {"entry_id":"item_1795670017592","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/B92bIzU2UZOJOpDn1rmT2f","added_at":"2026-11-26T05:13:37.592Z"},
-    {"entry_id":"item_1795670038215","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/CVmofZGYvSqHLbLCmU39ig","added_at":"2026-11-26T05:13:58.215Z"},
-    {"entry_id":"item_1795670060095","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/LDaItZ6K2iFB3tXh78pqqi","added_at":"2026-11-26T05:14:20.095Z"},
-    {"entry_id":"item_1795670075736","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/DmnYtNbHzuPHCysVCQYiwT","added_at":"2026-11-26T05:14:35.736Z"},
-    {"entry_id":"item_1795670087601","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/GweXLUcEh5MFgelVOwCBDv","added_at":"2026-11-26T05:14:47.601Z"},
-    {"entry_id":"item_1795670101156","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/CbGpEOny6nv1xpnnvk93Cq","added_at":"2026-11-26T05:15:01.156Z"},
-    {"entry_id":"item_1795670115007","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/DD3cmQVLSNP6MSuT3dDARH","added_at":"2026-11-26T05:15:15.007Z"},
-    {"entry_id":"item_1795670128852","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/BnPxSdeH6pY4oZFIRS81rN","added_at":"2026-11-26T05:15:28.852Z"},
-    {"entry_id":"item_1795670141368","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/LMLpS9Dw6rBFyasgH1R9wm","added_at":"2026-11-26T05:15:41.368Z"},
-    {"entry_id":"item_1795670155710","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/Jd07AePdBGJBHmuJK1TF2j","added_at":"2026-11-26T05:15:55.710Z"},
-    {"entry_id":"item_1795670169929","username":"ardhita","role":"user","type":"group","target":"https://chat.whatsapp.com/K7O7UUewra2LuHDzzQGNu4","added_at":"2026-11-26T05:16:09.929Z"},
-    {"entry_id":"item_1795684286099","username":"asteclyr","role":"user","type":"channel","target":"120363431736092026@newsletter","added_at":"2026-11-26T09:11:26.099Z"}
+    {
+      "entry_id": "item_1793433473557",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363402868866359@newsletter",
+      "added_at": "2026-10-31T07:57:53.557Z"
+    },
+    {
+      "entry_id": "item_1795396560001",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363408089676699@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560002",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363411716205891@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560003",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428774935419@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560004",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363413439601308@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560005",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363426667307310@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560006",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363406686429563@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560007",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363405193172531@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560008",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363424158231931@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560009",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363403511681857@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560010",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363423115859216@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560011",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363405751846099@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560012",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363425215539117@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560013",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363420688342363@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560014",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363407995934884@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560015",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429092002554@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560016",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363427388697660@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560017",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363407428512399@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560018",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363406324148841@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560019",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363404648492357@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560020",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363424181296248@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560021",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363426143278720@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560022",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363411296609345@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560023",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363433749043121@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560024",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363430358975222@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560025",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363410850042322@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560026",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363410890367638@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560027",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363409922669756@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560028",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363412668474335@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560029",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363412098642346@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560030",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363424451340923@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560031",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363411265074152@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560032",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363414914476877@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560033",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363414230953029@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560034",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363432336294829@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560035",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429135852533@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560036",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428979242862@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560037",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363427316326601@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560038",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363430118500859@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560039",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363414543191162@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560040",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363409312214229@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560041",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363433152662852@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560042",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363431107765181@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560043",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428371956007@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560044",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363430142122299@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560045",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363414696738425@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560046",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363432346092597@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560047",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363433498571895@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560048",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363414177323272@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560049",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363409276643593@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560050",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363406122525147@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560051",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363408427759643@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560052",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363432462670811@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560053",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363413987148854@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560054",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363427748941588@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560055",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363431633176134@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560056",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363430077534656@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560057",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363412470558999@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560058",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363412941726380@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560059",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363424482798113@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560060",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363431999160515@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560061",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363433437284859@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560062",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363409053880514@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560063",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363408557680754@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560064",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363431104887010@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560065",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363410697545748@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560066",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429855943961@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560067",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363427050583863@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560068",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428829969508@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560069",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363437898918771@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560070",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363432897831417@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560071",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363410214539431@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560072",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428973163018@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560073",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363425359921782@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560074",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363409706127867@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560075",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428402662553@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560076",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363411321962596@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560077",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429538726333@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560078",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363427682692073@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560079",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429811226222@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560080",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428848166418@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560081",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363409316377061@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560082",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428801407191@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560083",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363410549162379@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560084",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429076295887@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560085",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429744175174@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560086",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363413278979105@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560087",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429356347366@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560088",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428122270223@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560089",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363410472759582@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560090",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363410543597599@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560091",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429192436048@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560092",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363427776409140@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560093",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363409638252154@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560094",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363430826554103@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560095",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363412414650149@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560096",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363410909841665@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560097",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429844517342@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560098",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363408351032775@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560099",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363427055897107@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560100",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363427297886091@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560101",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428141035252@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560102",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363410455268894@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560103",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429586673348@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560104",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363410642055478@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560105",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363409551736932@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560106",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363431631705822@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560107",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429020395437@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560108",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363427565293814@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560109",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429584204354@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560110",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363411415827346@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560111",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363408696993418@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560112",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428003646110@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560113",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429832164310@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560114",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363413722516941@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560115",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363432127564393@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560116",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363411821021860@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560117",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363428814057436@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560118",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363412498881892@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560119",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363414601607112@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560120",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363413026726018@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560121",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363411763335520@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560122",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363412819415728@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560123",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363413883118135@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560124",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363430399987633@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560125",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363429124700141@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560126",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "channel",
+      "target": "120363432289926526@newsletter",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560127",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/K79LQJEiYzu5zpBDAtRWmu",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560128",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/HfRnkKvjnliJzNwHRPnrOk",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560129",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/L7wyYQgPUqCAimC7JA8SIn",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560130",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/F60XvoSx5XbFhZFzlccvsh",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560131",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CjapDnyEHns9ROpO51KQrL",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560132",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Igp2dDGBDmwDkzUg1sjnCJ",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560133",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Ib87wxPyxjRDgPrclKQ3wP",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560134",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DnL3PkgJ154HAbrqnja081",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560135",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KoLjTFBFuydDGPdrrUtGK8",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560138",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Jrm6y8ECs1KFQDQ1fjQbZA",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560139",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Fo9Q9dLWodp5hxDtGUD9el",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560140",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Kf5Qggk6TzDCZS7zxXBHNI",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560142",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/F8t97k62D4XAVrCSpjM1mi",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560143",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Lv7wEP5QNiAHeYfnQh6Q6a",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560144",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LCDZsgQSFj6C9CNcUvZLAC",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560145",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Cg9KKP5i8a2CxwfBRykHbO",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560146",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GGIcF1mVkAH3kShPtRomYt",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560147",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/JN6AcSRSYcp36vFM0mXkdb",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560148",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DeQeH5Wsm0B0jt1KPwweMP",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560149",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BZTPJSH3IO4D2v9cmSrtgp",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560150",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BhQvxYs8IaTItFpe4Mz0sF",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560151",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FGWWL3qbWnqJ4lcbuJ62fi",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560152",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EMnaN2cdKDEJR1eTVY3B3m",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560153",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GjCPIkrSCfD010LVV2aMiW",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560154",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/HfCQLfqrNAQBMNSOJ5P88q",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560155",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DQBJu8LzbYN8doPaz3wVFB",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560156",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KSWOQ9LQK5RKSFVJtvBlkJ",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560157",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DbEdFh1WbhTAOi1xZVAiDw",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560158",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KU7KLHBw4Yl65geH6jo7pM",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560159",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BTyVCzbJ8SAIeUP1JUCnqs",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560160",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FvLimeXPuQ8KArtNM4uH7Y",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560161",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EceVQmwqpz73dxQmP0id6N",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560162",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KbPKNLJS0Id7Ux0LPu50gz",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560163",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Dc1INJcKhNgKGVUaLQ8wwW",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560164",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/IxHGqQkNcRWIVKxKpiSGjJ",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560165",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FjmTHlpCjQS0XHBzw097oa",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560166",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GcdAAtyWfS4DG6P6rlRLcx",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560167",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FWK2GHOfGfXDP2ZYHJc2kL",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560168",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GUpD2xXsIUA6p2pptsCnj5",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560170",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CoGg6GdjVmtE4GDGew7X6e",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560171",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KqwdXEAfSlPDrKUXze39Lm",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560172",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/JrWGccmg5Ya7Qyx2eVIguG",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560173",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BV6qeyLomPLJDw2nvHh1Qf",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560174",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KMG2erUKcEjBlYpIpkFJN4",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560175",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KhZ9o4Ab715K8LCNV1YHjR",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560176",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FHXJzDBmx297eirMK3DKpj",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560177",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BrvLR5Y7y0tJALRwgF2bqJ",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560178",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/HOUpS0LVPFtBL3Rg0J0STD",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560179",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Jtog2G9uFja6o19xjhE93n",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560180",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DBcM7Daagvk0pAvIJlNIhK",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560181",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EFTWp7dQ9JGGjQA0hdSLJH",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560182",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/HlLIbJbdLCS81DRmKELxMi",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560183",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CAwoCPiYNoM8avx0tL59j3",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560184",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EgQ6VUvEyroEvWtznJKl99",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560185",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Ht2Cb5ojW5K8LCObn0u9I7",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560186",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KkOVnH5pdOE2vRMMA3EeJt",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560187",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FNsu6duHaYbETGLDmc5RTD",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560188",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CTX3vH4rRlTAaZDuY8OYya",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560189",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LZpmjjBsPN3F6W5XnTdtTw",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560190",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CL7zgUoWaPf7Ip4i4zO1aY",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560191",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/B6I3u6FGTB97LegptNfu7B",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560192",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EoNwBAfIRNhLDvU0fWTN8a",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560193",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/HUsQBK1xNu702UEwn9cjLz",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560194",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Fhv2aSFIXdg5rOkWQfAHzs",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560195",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GhOhfTTXgqS9Vyb8MywHVh",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560196",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EkllK41mDm8FjTGCVEBvtd",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560197",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FYiK8Ma7B5VF3dJZgG8AYV",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560198",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/D1uiHWrOUOH0MZ6ZZd6i0t",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560199",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/JooD2PDPGWP2mJVrCl9V7c",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560200",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GZat5qpHhUTDo6FsxjkwZW",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560201",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BZQL7uzDSDe680yxWXLatJ",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560202",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Kx0lOm0Zlmk2WukuY8cRgC",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560203",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/JheoLZC3WuIJyTkX1pb6ie",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560204",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Ev4hG50Mag16mDJlPIhSTj",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560205",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FEtvkOaCPgnC3MPDGD4suO",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560206",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FkzoKBKBInOIZRLpi0uTuS",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560207",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FsoSSEqQY22Cu8oHa3hMOG",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560208",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/C0zhojjRN00KuayT8tKBKu",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560209",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/JWS4sSB5yOp8VisGBoGTku",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560210",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LGh6rdvJA9v6J6xtI6oYxP",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560211",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/ILLgUz9vpM19eGydhEL93g",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560212",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/HbuNCV1C9Cl3cX9RptMHaM",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560213",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/C7uuUzchaE43ZayQp2iYLQ",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560214",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/L5dFfXgKW8PH52jbkAreW2",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560215",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/HmwvfgyPklzAFQ0Z0Niv6B",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560216",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GBJccHCnBPh3UUudNBaoji",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560217",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/IO8Wf5ZmP5iIHGsSsw1f5C",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560218",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KBZegbZEh6hAG6Q8KCdMgS",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560219",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BE6J7zsZKz86Lbggb4t8Wm",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560220",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EhzvQUXyPRoI1FG48NyVvI",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560221",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FcNggL3nuyYCjOO1WB1HkM",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560222",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Daqv18jlFdT1a7vqN6rMde",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560223",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/C5JeD6RLVqr4dn43S14xtV",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560224",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FoqA5P39pAiLUGk9s2W90R",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560225",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LblqqXac3FSKcHehCBxPIO",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560226",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Ka90V7tsoYyD2vOsC6VRHV",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560227",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FE2yDpbnqI6951dp4Jm3mF",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560228",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DeR7jeMYzLyDxcfCvckwia",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560229",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DgebVxPeT0t3xzSwGXtCpo",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560230",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LEegboQIJygIHCdwqvC8C3",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560231",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EzDI8XbEQhvCvSYGBbf9Ms",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560232",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DBpDMGwEp7tHEUcyd9EpIY",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560233",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Hq17eHmCBP78qp0RBUQbIl",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560234",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KIGBmeijZB8KFonxNq7DZI",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560235",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/JBqPtsZ6CJjKe3Qft9sL0t",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560236",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CP5fUUGnfiKFvfcpORLcJu",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560237",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Ew65ijZ73OkFC4HKw3x7mC",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560238",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BWCtN8qiGlDAOTMy7Q8xLS",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560239",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LPVf8BsAQp3LrWMQ7rqz71",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560240",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/IFVy8SRDD3O7bWw15RGnOg",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560241",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GmSpgL6teYBD5mSY3ZomXI",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560242",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EkrrtrxG5bI8qok4Lwbv3Q",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560243",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/B9B5AoPuljTKP4fZfN0Mcp",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560244",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Dh2LUsGJtY1HEFyiuMJjci",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560245",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LJcdtTWc8ui1nwB6FOsclV",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560246",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Iepa289AnkL87VDk7WNqYU",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560247",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DgLguwus0YlAqvs0ZL8mQG",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560248",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Jks7GcuxZmh6At8BrsKDwh",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560249",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EvCtqIujCtnAxujSxSCifx",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560250",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EV86kiEgL8QIdgdR8PfVdS",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560251",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/IVHo3ZDkmFlHhU7x7VHt0Q",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560252",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/IHawNPNQmUGLF5uoFDjw3m",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560253",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/HNbej5Dtp6IEtsCRj3w4Ye",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560254",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EOh9CBIkvxA9qfYvDuXUgq",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560255",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KmrmviTSnaf47yC4KuzJDV",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560256",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/K7XYAhz8BpV196IQCpIM6L",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560257",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/JISdc08L7bHB6WtHaM5efL",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560258",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CRUVbAXTE0H2a6XZFAe013",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560259",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CobuqV8mP8A9V9m4W9CJHO",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560260",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/JjgLRNw7xjq1a3Fu4JjTYS",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560261",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/JYMfgpzLWdlL1Vj5eSXNPA",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560262",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LMWveWwPHo4DXJzXkdCGnS",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560263",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GrcJwbClyr0DFI8cAPhLx0",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560266",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/IgEbTrkiZV0FlADBwCgHQL",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560267",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/JV4z3obRKDz4dJHY3tLH9c",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560268",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Bp0j3C3cbWFC4607IWejrO",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560269",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Ly7wPisg0hnDjxtb6SnGJ2",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795396560270",
+      "username": "paxbar_",
+      "role": "admin",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LFXMnLhV2HH8XF0Hj9lN2E",
+      "added_at": "2026-11-23T01:16:00.000Z"
+    },
+    {
+      "entry_id": "item_1795397226321",
+      "username": "paxbar_2",
+      "role": "user",
+      "type": "channel",
+      "target": "120xxxxxxxxxxx@newsletter",
+      "added_at": "2026-11-23T01:27:06.321Z"
+    },
+    {
+      "entry_id": "item_1795404642616",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363428983975433@newsletter",
+      "added_at": "2026-11-23T03:30:42.616Z"
+    },
+    {
+      "entry_id": "item_1795411743607",
+      "username": "dapzy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363412370699857@newsletter",
+      "added_at": "2026-11-23T05:29:03.607Z"
+    },
+    {
+      "entry_id": "item_1795414485436",
+      "username": "kapotid",
+      "role": "user",
+      "type": "channel",
+      "target": "120363407728627709@newsletter",
+      "added_at": "2026-11-23T06:14:45.436Z"
+    },
+    {
+      "entry_id": "item_1795416679241",
+      "username": "danang",
+      "role": "user",
+      "type": "channel",
+      "target": "120363427239417923@newsletter",
+      "added_at": "2026-11-23T06:51:19.241Z"
+    },
+    {
+      "entry_id": "item_1795416714648",
+      "username": "danang",
+      "role": "user",
+      "type": "channel",
+      "target": "120363409297123784@newsletter",
+      "added_at": "2026-11-23T06:51:54.648Z"
+    },
+    {
+      "entry_id": "item_1795421616426",
+      "username": "dilxzcode",
+      "role": "user",
+      "type": "channel",
+      "target": "120363330289360382@newsletter",
+      "added_at": "2026-11-23T08:13:36.426Z"
+    },
+    {
+      "entry_id": "item_1795421631088",
+      "username": "dilxzcode",
+      "role": "user",
+      "type": "channel",
+      "target": "120363410963068584@newsletter",
+      "added_at": "2026-11-23T08:13:51.088Z"
+    },
+    {
+      "entry_id": "item_1795427920852",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363433439503750@newsletter",
+      "added_at": "2026-11-23T09:58:40.852Z"
+    },
+    {
+      "entry_id": "item_1795427994023",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363433114127008@newsletter",
+      "added_at": "2026-11-23T09:59:54.023Z"
+    },
+    {
+      "entry_id": "item_1795428118429",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363434262071225@newsletter",
+      "added_at": "2026-11-23T10:01:58.429Z"
+    },
+    {
+      "entry_id": "item_1795428182501",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432092690378@newsletter",
+      "added_at": "2026-11-23T10:03:02.501Z"
+    },
+    {
+      "entry_id": "item_1795428403101",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432296117803@newsletter",
+      "added_at": "2026-11-23T10:06:43.101Z"
+    },
+    {
+      "entry_id": "item_1795428744905",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432257660629@newsletter",
+      "added_at": "2026-11-23T10:12:24.905Z"
+    },
+    {
+      "entry_id": "item_1795428813015",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363434360917997@newsletter",
+      "added_at": "2026-11-23T10:13:33.015Z"
+    },
+    {
+      "entry_id": "item_1795428882418",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363431780919646@newsletter",
+      "added_at": "2026-11-23T10:14:42.418Z"
+    },
+    {
+      "entry_id": "item_1795429151157",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363433436641693@newsletter",
+      "added_at": "2026-11-23T10:19:11.157Z"
+    },
+    {
+      "entry_id": "item_1795429276558",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432371701170@newsletter",
+      "added_at": "2026-11-23T10:21:16.558Z"
+    },
+    {
+      "entry_id": "item_1795429346941",
+      "username": "kyouan",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430832111430@newsletter",
+      "added_at": "2026-11-23T10:22:26.941Z"
+    },
+    {
+      "entry_id": "item_1795429956735",
+      "username": "kapotid",
+      "role": "user",
+      "type": "channel",
+      "target": "120363422066682134@newsletter",
+      "added_at": "2026-11-23T10:32:36.735Z"
+    },
+    {
+      "entry_id": "item_1795435266308",
+      "username": "alluffy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363429886773758@newsletter",
+      "added_at": "2026-11-23T12:01:06.308Z"
+    },
+    {
+      "entry_id": "item_1795435312544",
+      "username": "alluffy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363415174135095@newsletter",
+      "added_at": "2026-11-23T12:01:52.544Z"
+    },
+    {
+      "entry_id": "item_1795435328385",
+      "username": "alluffy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363415437956024@newsletter",
+      "added_at": "2026-11-23T12:02:08.385Z"
+    },
+    {
+      "entry_id": "item_1795435337314",
+      "username": "alluffy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363414523268238@newsletter",
+      "added_at": "2026-11-23T12:02:17.314Z"
+    },
+    {
+      "entry_id": "item_1795435344757",
+      "username": "alluffy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363429387190401@newsletter",
+      "added_at": "2026-11-23T12:02:24.757Z"
+    },
+    {
+      "entry_id": "item_1795435353891",
+      "username": "alluffy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430873189342@newsletter",
+      "added_at": "2026-11-23T12:02:33.891Z"
+    },
+    {
+      "entry_id": "item_1795435361466",
+      "username": "alluffy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363413962482956@newsletter",
+      "added_at": "2026-11-23T12:02:41.466Z"
+    },
+    {
+      "entry_id": "item_1795435372777",
+      "username": "alluffy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363433842322754@newsletter",
+      "added_at": "2026-11-23T12:02:52.777Z"
+    },
+    {
+      "entry_id": "item_1795435381753",
+      "username": "alluffy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432638976255@newsletter",
+      "added_at": "2026-11-23T12:03:01.753Z"
+    },
+    {
+      "entry_id": "item_1795435394302",
+      "username": "alluffy",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432678062191@newsletter",
+      "added_at": "2026-11-23T12:03:14.302Z"
+    },
+    {
+      "entry_id": "item_1795594034542",
+      "username": "rizz",
+      "role": "user",
+      "type": "channel",
+      "target": "120363404634538235@newsletter",
+      "added_at": "2026-11-25T08:07:14.542Z"
+    },
+    {
+      "entry_id": "item_1795594056441",
+      "username": "rizz",
+      "role": "user",
+      "type": "channel",
+      "target": "120363353304302947@newsletter",
+      "added_at": "2026-11-25T08:07:36.441Z"
+    },
+    {
+      "entry_id": "item_1795594255232",
+      "username": "rizz",
+      "role": "user",
+      "type": "channel",
+      "target": "120363423615802904@newsletter",
+      "added_at": "2026-11-25T08:10:55.232Z"
+    },
+    {
+      "entry_id": "item_1795594352169",
+      "username": "rizz",
+      "role": "user",
+      "type": "channel",
+      "target": "120363408663530338@newsletter",
+      "added_at": "2026-11-25T08:12:32.169Z"
+    },
+    {
+      "entry_id": "item_1795594389651",
+      "username": "rizz",
+      "role": "user",
+      "type": "channel",
+      "target": "120363411509441178@newsletter",
+      "added_at": "2026-11-25T08:13:09.651Z"
+    },
+    {
+      "entry_id": "item_1795594412389",
+      "username": "rizz",
+      "role": "user",
+      "type": "channel",
+      "target": "120363413522322118@newsletter",
+      "added_at": "2026-11-25T08:13:32.389Z"
+    },
+    {
+      "entry_id": "item_1795594481141",
+      "username": "rizz",
+      "role": "user",
+      "type": "channel",
+      "target": "120363413108765812@newsletter",
+      "added_at": "2026-11-25T08:14:41.141Z"
+    },
+    {
+      "entry_id": "item_1795614658291",
+      "username": "F4n",
+      "role": "user",
+      "type": "channel",
+      "target": "120363433791989945@newsletter",
+      "added_at": "2026-11-25T13:50:58.291Z"
+    },
+    {
+      "entry_id": "item_1795614703316",
+      "username": "F4n",
+      "role": "user",
+      "type": "channel",
+      "target": "120363411810206911@newsletter",
+      "added_at": "2026-11-25T13:51:43.316Z"
+    },
+    {
+      "entry_id": "item_1795614732475",
+      "username": "F4n",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430514470984@newsletter",
+      "added_at": "2026-11-25T13:52:12.475Z"
+    },
+    {
+      "entry_id": "item_1795614757404",
+      "username": "F4n",
+      "role": "user",
+      "type": "channel",
+      "target": "120363422852695330@newsletter",
+      "added_at": "2026-11-25T13:52:37.404Z"
+    },
+    {
+      "entry_id": "item_1795614780336",
+      "username": "F4n",
+      "role": "user",
+      "type": "channel",
+      "target": "120363407007671503@newsletter",
+      "added_at": "2026-11-25T13:53:00.336Z"
+    },
+    {
+      "entry_id": "item_1795614806017",
+      "username": "F4n",
+      "role": "user",
+      "type": "channel",
+      "target": "120363413718014885@newsletter",
+      "added_at": "2026-11-25T13:53:26.017Z"
+    },
+    {
+      "entry_id": "item_1795614838217",
+      "username": "F4n",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432701530285@newsletter",
+      "added_at": "2026-11-25T13:53:58.217Z"
+    },
+    {
+      "entry_id": "item_1795619095020",
+      "username": "dilxzcode",
+      "role": "user",
+      "type": "channel",
+      "target": "120363429511281710@newsletter",
+      "added_at": "2026-11-25T15:04:55.020Z"
+    },
+    {
+      "entry_id": "item_1795619106323",
+      "username": "dilxzcode",
+      "role": "user",
+      "type": "channel",
+      "target": "120363409782361079@newsletter",
+      "added_at": "2026-11-25T15:05:06.323Z"
+    },
+    {
+      "entry_id": "item_1795640028467",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363412622818481@newsletter",
+      "added_at": "2026-11-25T20:53:48.467Z"
+    },
+    {
+      "entry_id": "item_1795640163946",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363408896784304@newsletter",
+      "added_at": "2026-11-25T20:56:03.946Z"
+    },
+    {
+      "entry_id": "item_1795640191556",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363408138853894@newsletter",
+      "added_at": "2026-11-25T20:56:31.556Z"
+    },
+    {
+      "entry_id": "item_1795640273623",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363427195742278@newsletter",
+      "added_at": "2026-11-25T20:57:53.623Z"
+    },
+    {
+      "entry_id": "item_1795640300163",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430155696714@newsletter",
+      "added_at": "2026-11-25T20:58:20.163Z"
+    },
+    {
+      "entry_id": "item_1795640324624",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430162624582@newsletter",
+      "added_at": "2026-11-25T20:58:44.624Z"
+    },
+    {
+      "entry_id": "item_1795640348711",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363431089626907@newsletter",
+      "added_at": "2026-11-25T20:59:08.711Z"
+    },
+    {
+      "entry_id": "item_1795640379287",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363431229173556@newsletter",
+      "added_at": "2026-11-25T20:59:39.287Z"
+    },
+    {
+      "entry_id": "item_1795640416789",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363431697168674@newsletter",
+      "added_at": "2026-11-25T21:00:16.789Z"
+    },
+    {
+      "entry_id": "item_1795640441601",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432214611213@newsletter",
+      "added_at": "2026-11-25T21:00:41.601Z"
+    },
+    {
+      "entry_id": "item_1795640471334",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430481609450@newsletter",
+      "added_at": "2026-11-25T21:01:11.334Z"
+    },
+    {
+      "entry_id": "item_1795640502836",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363412619997370@newsletter",
+      "added_at": "2026-11-25T21:01:42.836Z"
+    },
+    {
+      "entry_id": "item_1795640547400",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363412595647526@newsletter",
+      "added_at": "2026-11-25T21:02:27.400Z"
+    },
+    {
+      "entry_id": "item_1795640575697",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363413694691041@newsletter",
+      "added_at": "2026-11-25T21:02:55.697Z"
+    },
+    {
+      "entry_id": "item_1795640607238",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430669646700@newsletter",
+      "added_at": "2026-11-25T21:03:27.238Z"
+    },
+    {
+      "entry_id": "item_1795640632692",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432035782974@newsletter",
+      "added_at": "2026-11-25T21:03:52.692Z"
+    },
+    {
+      "entry_id": "item_1795640656704",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363429737336632@newsletter",
+      "added_at": "2026-11-25T21:04:16.704Z"
+    },
+    {
+      "entry_id": "item_1795640682853",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363413333208583@newsletter",
+      "added_at": "2026-11-25T21:04:42.853Z"
+    },
+    {
+      "entry_id": "item_1795640706659",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363427235262341@newsletter",
+      "added_at": "2026-11-25T21:05:06.659Z"
+    },
+    {
+      "entry_id": "item_1795640731283",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430354183399@newsletter",
+      "added_at": "2026-11-25T21:05:31.283Z"
+    },
+    {
+      "entry_id": "item_1795640754781",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363413090536080@newsletter",
+      "added_at": "2026-11-25T21:05:54.781Z"
+    },
+    {
+      "entry_id": "item_1795640778458",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363413695505986@newsletter",
+      "added_at": "2026-11-25T21:06:18.458Z"
+    },
+    {
+      "entry_id": "item_1795640803921",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430336453731@newsletter",
+      "added_at": "2026-11-25T21:06:43.921Z"
+    },
+    {
+      "entry_id": "item_1795640827368",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363429875803170@newsletter",
+      "added_at": "2026-11-25T21:07:07.368Z"
+    },
+    {
+      "entry_id": "item_1795640854472",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363413211025808@newsletter",
+      "added_at": "2026-11-25T21:07:34.472Z"
+    },
+    {
+      "entry_id": "item_1795654228265",
+      "username": "yuki",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432927225089@newsletter",
+      "added_at": "2026-11-26T00:50:28.265Z"
+    },
+    {
+      "entry_id": "item_1795658238182",
+      "username": "szxenn",
+      "role": "user",
+      "type": "channel",
+      "target": "120363307077684911@newsletter",
+      "added_at": "2026-11-26T01:57:18.182Z"
+    },
+    {
+      "entry_id": "item_1795658260242",
+      "username": "szxenn",
+      "role": "user",
+      "type": "channel",
+      "target": "120363370522421644@newsletter",
+      "added_at": "2026-11-26T01:57:40.242Z"
+    },
+    {
+      "entry_id": "item_1795658271563",
+      "username": "szxenn",
+      "role": "user",
+      "type": "channel",
+      "target": "120363408159125529@newsletter",
+      "added_at": "2026-11-26T01:57:51.563Z"
+    },
+    {
+      "entry_id": "item_1795658289412",
+      "username": "szxenn",
+      "role": "user",
+      "type": "channel",
+      "target": "120363423248494885@newsletter",
+      "added_at": "2026-11-26T01:58:09.412Z"
+    },
+    {
+      "entry_id": "item_1795658302443",
+      "username": "szxenn",
+      "role": "user",
+      "type": "channel",
+      "target": "120363423666771129@newsletter",
+      "added_at": "2026-11-26T01:58:22.443Z"
+    },
+    {
+      "entry_id": "item_1795658319210",
+      "username": "szxenn",
+      "role": "user",
+      "type": "channel",
+      "target": "120363405390404298@newsletter",
+      "added_at": "2026-11-26T01:58:39.210Z"
+    },
+    {
+      "entry_id": "item_1795658333169",
+      "username": "szxenn",
+      "role": "user",
+      "type": "channel",
+      "target": "120363412466364658@newsletter",
+      "added_at": "2026-11-26T01:58:53.169Z"
+    },
+    {
+      "entry_id": "item_1795658345445",
+      "username": "szxenn",
+      "role": "user",
+      "type": "channel",
+      "target": "120363411240800225@newsletter",
+      "added_at": "2026-11-26T01:59:05.445Z"
+    },
+    {
+      "entry_id": "item_1795658361407",
+      "username": "szxenn",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430046790456@newsletter",
+      "added_at": "2026-11-26T01:59:21.407Z"
+    },
+    {
+      "entry_id": "item_1795658378925",
+      "username": "szxenn",
+      "role": "user",
+      "type": "channel",
+      "target": "120363411961808246@newsletter",
+      "added_at": "2026-11-26T01:59:38.925Z"
+    },
+    {
+      "entry_id": "item_1795669386521",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363414269959043@newsletter",
+      "added_at": "2026-11-26T05:03:06.521Z"
+    },
+    {
+      "entry_id": "item_1795669408304",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363432578760790@newsletter",
+      "added_at": "2026-11-26T05:03:28.304Z"
+    },
+    {
+      "entry_id": "item_1795669423094",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363413535905740@newsletter",
+      "added_at": "2026-11-26T05:03:43.094Z"
+    },
+    {
+      "entry_id": "item_1795669440608",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363433078072515@newsletter",
+      "added_at": "2026-11-26T05:04:00.608Z"
+    },
+    {
+      "entry_id": "item_1795669457275",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363412772173961@newsletter",
+      "added_at": "2026-11-26T05:04:17.275Z"
+    },
+    {
+      "entry_id": "item_1795669470210",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363412265633972@newsletter",
+      "added_at": "2026-11-26T05:04:30.210Z"
+    },
+    {
+      "entry_id": "item_1795669490397",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363430893651312@newsletter",
+      "added_at": "2026-11-26T05:04:50.397Z"
+    },
+    {
+      "entry_id": "item_1795669507226",
+      "username": "ardhita",
+      "role": "user",
+      "type": "channel",
+      "target": "120363414165430562@newsletter",
+      "added_at": "2026-11-26T05:05:07.226Z"
+    },
+    {
+      "entry_id": "item_1795669589929",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/HVoI3IIruLQHeC1ZCPKyp7",
+      "added_at": "2026-11-26T05:06:29.929Z"
+    },
+    {
+      "entry_id": "item_1795669610291",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/EvL59nfY2qk9hOb9dqUg3e",
+      "added_at": "2026-11-26T05:06:50.291Z"
+    },
+    {
+      "entry_id": "item_1795669634500",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/FHBsfgwv2nM6J2AD4YWgMn",
+      "added_at": "2026-11-26T05:07:14.500Z"
+    },
+    {
+      "entry_id": "item_1795669657783",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BV3WoIJIQ236z8yZzzqfHt",
+      "added_at": "2026-11-26T05:07:37.783Z"
+    },
+    {
+      "entry_id": "item_1795669675977",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/D7zSD7SJEBoGa8Yl5rrBeR",
+      "added_at": "2026-11-26T05:07:55.977Z"
+    },
+    {
+      "entry_id": "item_1795669744402",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/KRhpZtfPZ0AAJWffVZCEfx",
+      "added_at": "2026-11-26T05:09:04.402Z"
+    },
+    {
+      "entry_id": "item_1795669763960",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CQOCKqFDc6H8ExTQ6AeNc2",
+      "added_at": "2026-11-26T05:09:23.960Z"
+    },
+    {
+      "entry_id": "item_1795669787141",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Jh5TGzuJyZH0L8m55dYHSk",
+      "added_at": "2026-11-26T05:09:47.142Z"
+    },
+    {
+      "entry_id": "item_1795669807068",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LsZV570MF0mCAfJepKGQdn",
+      "added_at": "2026-11-26T05:10:07.068Z"
+    },
+    {
+      "entry_id": "item_1795669827318",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GnSsAwuXQa9GXsthfeRtrI",
+      "added_at": "2026-11-26T05:10:27.318Z"
+    },
+    {
+      "entry_id": "item_1795669843147",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/D0suXs6cbr5DPoWj3yW8Fb",
+      "added_at": "2026-11-26T05:10:43.147Z"
+    },
+    {
+      "entry_id": "item_1795669862227",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/I3qTGXHOrhOALk1gAyHojU",
+      "added_at": "2026-11-26T05:11:02.227Z"
+    },
+    {
+      "entry_id": "item_1795669881830",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LtUhI3jElHp8rxp9R3nrd2",
+      "added_at": "2026-11-26T05:11:21.830Z"
+    },
+    {
+      "entry_id": "item_1795669899578",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Hy3olD85Q93Dsj6xvQIkcp",
+      "added_at": "2026-11-26T05:11:39.578Z"
+    },
+    {
+      "entry_id": "item_1795669920294",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/K4eDGSF12Qy2Zqja7K5BGF",
+      "added_at": "2026-11-26T05:12:00.294Z"
+    },
+    {
+      "entry_id": "item_1795669943121",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/J4WRWIp7lLU3uyMdlrp1lN",
+      "added_at": "2026-11-26T05:12:23.121Z"
+    },
+    {
+      "entry_id": "item_1795669957744",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BZW3XQmLqPV3A8HGAuJjuu",
+      "added_at": "2026-11-26T05:12:37.744Z"
+    },
+    {
+      "entry_id": "item_1795669972271",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Kk2ATreNmXhCFTnjFglDtN",
+      "added_at": "2026-11-26T05:12:52.271Z"
+    },
+    {
+      "entry_id": "item_1795669986793",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DM0HphuxJmq7zxRaQVPVrY",
+      "added_at": "2026-11-26T05:13:06.793Z"
+    },
+    {
+      "entry_id": "item_1795669997775",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Cpk7IK0DfcZ872qrfArpj7",
+      "added_at": "2026-11-26T05:13:17.775Z"
+    },
+    {
+      "entry_id": "item_1795670017592",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/B92bIzU2UZOJOpDn1rmT2f",
+      "added_at": "2026-11-26T05:13:37.592Z"
+    },
+    {
+      "entry_id": "item_1795670038215",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CVmofZGYvSqHLbLCmU39ig",
+      "added_at": "2026-11-26T05:13:58.215Z"
+    },
+    {
+      "entry_id": "item_1795670060095",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LDaItZ6K2iFB3tXh78pqqi",
+      "added_at": "2026-11-26T05:14:20.095Z"
+    },
+    {
+      "entry_id": "item_1795670075736",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DmnYtNbHzuPHCysVCQYiwT",
+      "added_at": "2026-11-26T05:14:35.736Z"
+    },
+    {
+      "entry_id": "item_1795670087601",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/GweXLUcEh5MFgelVOwCBDv",
+      "added_at": "2026-11-26T05:14:47.601Z"
+    },
+    {
+      "entry_id": "item_1795670101156",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/CbGpEOny6nv1xpnnvk93Cq",
+      "added_at": "2026-11-26T05:15:01.156Z"
+    },
+    {
+      "entry_id": "item_1795670115007",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/DD3cmQVLSNP6MSuT3dDARH",
+      "added_at": "2026-11-26T05:15:15.007Z"
+    },
+    {
+      "entry_id": "item_1795670128852",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/BnPxSdeH6pY4oZFIRS81rN",
+      "added_at": "2026-11-26T05:15:28.852Z"
+    },
+    {
+      "entry_id": "item_1795670141368",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/LMLpS9Dw6rBFyasgH1R9wm",
+      "added_at": "2026-11-26T05:15:41.368Z"
+    },
+    {
+      "entry_id": "item_1795670155710",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/Jd07AePdBGJBHmuJK1TF2j",
+      "added_at": "2026-11-26T05:15:55.710Z"
+    },
+    {
+      "entry_id": "item_1795670169929",
+      "username": "ardhita",
+      "role": "user",
+      "type": "group",
+      "target": "https://chat.whatsapp.com/K7O7UUewra2LuHDzzQGNu4",
+      "added_at": "2026-11-26T05:16:09.929Z"
+    },
+    {
+      "entry_id": "item_1795684286099",
+      "username": "asteclyr",
+      "role": "user",
+      "type": "channel",
+      "target": "120363431736092026@newsletter",
+      "added_at": "2026-11-26T09:11:26.099Z"
+    }
   ]
 }
